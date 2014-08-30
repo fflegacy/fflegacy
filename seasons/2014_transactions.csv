@@ -1,4 +1,4 @@
-Date, Type, Player, Team ID, Source
+Date, Type, Player, Team, Source
 2014-08-24, Add, LeSean McCoy, BT, Draft Pick
 2014-08-24, Add, Jamaal Charles, TJ, Draft Pick
 2014-08-24, Add, Matt Forte, CR, Draft Pick
@@ -248,7 +248,7 @@ Date, Type, Player, Team ID, Source
 2014-08-27, Add, Sheldon Richardson, MW, Waiver Wire
 2014-08-27, Drop, DeAndre Hopkins, DB
 2014-08-27, Add, Dan Bailey, DB, Waiver Wire
-2014-08-27, Drop, Navorro Bowman, MW
+2014-08-27, Drop, NaVorro Bowman, MW
 2014-08-27, Add, DeAndre Levy, MW, Waiver Wire
 2014-08-27, Drop, Charles Johnson, DB
 2014-08-27, Add, Gerald McCoy, DB, Waiver Wire
