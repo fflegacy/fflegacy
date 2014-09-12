@@ -87,7 +87,7 @@ Date,Type,Player,Team,Source
 2014-08-24,Add,Cameron Wake,TP,Draft Pick
 2014-08-24,Add,Karlos Dansby,DB,Draft Pick
 2014-08-24,Add,Johnathan Cyprien,MP,Draft Pick
-2014-08-24,Add,Landis McKelvin,SC,Draft Pick
+2014-08-24,Add,Leodis McKelvin,SC,Draft Pick
 2014-08-24,Add,Darren Sproles,MW,Draft Pick
 2014-08-24,Add,Lawrence Timmons,MW,Draft Pick
 2014-08-24,Add,Knowshon Moreno,SC,Draft Pick
@@ -146,7 +146,7 @@ Date,Type,Player,Team,Source
 2014-08-24,Add,Charles Tillman,MM,Draft Pick
 2014-08-24,Add,James Ihedigbo,TP,Draft Pick
 2014-08-24,Add,Roman Harper,DB,Draft Pick
-2014-08-24,Add,Ziggy Ansah,MP,Draft Pick
+2014-08-24,Add,Ezekiel Ansah,MP,Draft Pick
 2014-08-24,Add,Matt Elam,SC,Draft Pick
 2014-08-24,Add,Tyrann Mathieu,MW,Draft Pick
 2014-08-24,Add,NaVorro Bowman,MW,Draft Pick
@@ -260,7 +260,7 @@ Date,Type,Player,Team,Source
 2014-08-27,Drop,Robert Mathis,MP,
 2014-08-27,Add,Geno Atkins,MP,Free Agent
 2014-08-27,Drop,Dwayne Allen,MP,
-2014-08-27,Add,Tamba Hall,MP,Free Agent
+2014-08-27,Add,Tamba Hali,MP,Free Agent
 2014-08-27,Drop,Josh Gordon,MW,
 2014-08-27,Add,Charles Woodson,MW,Free Agent
 2014-08-27,Drop,Matt Prater,DB,
@@ -285,3 +285,39 @@ Date,Type,Player,Team,Source
 2014-09-05,Add,Bobby Wagner,CR,Special
 2014-09-07,Drop,Antonio Gates,BT,
 2014-09-07,Add,Josh Gordon,BT,Free Agent
+2014-09-10,Drop,Marcell Dareus,BT,
+2014-09-10,Add,Everson Griffen,BT,Waiver Wire
+2014-09-10,Drop,Ezekiel Ansah,MP,
+2014-09-10,Add,Justin Smith,MP,Waiver Wire
+2014-09-10,Drop,Ray Rice,MM,
+2014-09-10,Add,Justin Forsett,MM,Waiver Wire
+2014-09-10,Drop,Chris Long,JC,
+2014-09-10,Add,Derrick Morgan,JC,Waiver Wire
+2014-09-10,Drop,LaMarr Woodley,MW,
+2014-09-10,Add,Leodis McKelvin,MW,Waiver Wire
+2014-09-10,Drop,Zach Brown,TJ,
+2014-09-10,Add,Nate Irving,TJ,Waiver Wire
+2014-09-10,Drop,Joe Haden,BT,
+2014-09-10,Add,Ha Ha Clinton-Dix,BT,Waiver Wire
+2014-09-10,Drop,Geno Atkins,MP,
+2014-09-10,Add,Eric Reid,MP,Waiver Wire
+2014-09-10,Drop,Derrick Johnson,MM,
+2014-09-10,Add,Greg Jennings,MM,Waiver Wire
+2014-09-10,Drop,Jordan Reed,MW,
+2014-09-10,Add,Travis Kelce,MW,Waiver Wire
+2014-09-10,Drop,Tamba Hali,MP,
+2014-09-10,Add,Sio Moore,MP,Waiver Wire
+2014-09-10,Drop,Sheldon Richardson,MW,
+2014-09-10,Add,Jason Hatcher,MW,Waiver Wire
+2014-09-10,Drop,Benny Cunningham,MP,
+2014-09-10,Add,Shonn Greene,MP,Waiver Wire
+2014-09-10,Drop,Darren McFadden,JC,
+2014-09-10,Add,Markus Wheaton,JC,Free Agent
+2014-09-10,Drop,Patrick Peterson,MP,
+2014-09-10,Add,Malcolm Jenkins,MP,Free Agent
+2014-09-10,Drop,Donald Butler,MP,
+2014-09-10,Add,Terrance West,MP,Free Agent
+2014-09-10,Drop,Marvin Jones,MM,
+2014-09-10,Add,Danny Trevathan,MM,Free Agent
+2014-09-10,Drop,Lance Briggs,DB,
+2014-09-10,Add,A.J. Hawk,DB,Free Agent

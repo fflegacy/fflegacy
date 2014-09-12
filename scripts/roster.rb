@@ -9,7 +9,9 @@ CSV.foreach(File.expand_path("../../seasons/2014_transactions.csv", __FILE__), h
     if csv['Type'].eql? 'Add'
       players.push csv['Player']
     else
-      players.delete csv['Player']
+      if players.delete(csv['Player']).nil?
+        raise "Cannot drop #{csv['Player']}: not on #{team}'s roster"
+      end
     end
   end
 end
