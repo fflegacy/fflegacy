@@ -166,7 +166,7 @@ Date,Type,Player,Team,Source
 2014-08-24,Add,Maurice Jones-Drew,MM,Draft Pick
 2014-08-24,Add,Stevan Ridley,TP,Draft Pick
 2014-08-24,Add,Robert Griffin III,DB,Draft Pick
-2014-08-24,Add,Kendal Wright,MP,Draft Pick
+2014-08-24,Add,Kendall Wright,MP,Draft Pick
 2014-08-24,Add,Torrey Smith,SC,Draft Pick
 2014-08-24,Add,Josh McCown,MW,Draft Pick
 2014-08-24,Add,Donte Whitner,MW,Draft Pick
@@ -365,7 +365,7 @@ Date,Type,Player,Team,Source
 2014-09-17,Drop,Jared Allen,BT,
 2014-09-17,Add,Da'Norris Searcy,BT,Free Agent
 2014-09-17,Drop,Jarrett Boykin,TJ,
-2014-09-17,Add,Terrence Newman,TJ,Free Agent
+2014-09-17,Add,Terence Newman,TJ,Free Agent
 2014-09-18,Drop,Justin Smith,MP,
 2014-09-18,Add,Bobby Rainey,MP,Free Agent
 2014-09-18,Drop,Vontaze Burfict,DB,
@@ -383,3 +383,76 @@ Date,Type,Player,Team,Source
 2014-09-21,Drop,Kirk Cousins,BT,
 2014-09-21,Add,Niles Paul,BT,Free Agent
 2014-09-23,Drop,Tyvon Branch,DB,
+2014-09-24,Drop,Niles Paul,BT,
+2014-09-24,Add,Lorenzo Taliaferro,BT,Waiver Wire
+2014-09-24,Drop,Maurice Jones-Drew,MM,
+2014-09-24,Add,Donald Brown,MM,Waiver Wire
+2014-09-24,Drop,Michael Bennett,MP,
+2014-09-24,Add,Tamba Hali,MP,Waiver Wire
+2014-09-24,Add,Jelani Jenkins,TJ,Waiver Wire
+2014-09-24,Drop,Josh McCown,MW,
+2014-09-24,Add,Dominique Rodgers-Cromartie,MW,Waiver Wire
+2014-09-24,Drop,Dwayne Bowe,JC,
+2014-09-24,Add,Sheldon Richardson,JC,Waiver Wire
+2014-09-24,Add,Aaron Williams,DB,Waiver Wire
+2014-09-24,Drop,Michael Johnson,BT,
+2014-09-24,Add,Mario Addison,BT,Waiver Wire
+2014-09-24,Drop,Charles Clay,MM,
+2014-09-24,Add,Steve Smith Sr.,MM,Waiver Wire
+2014-09-24,Drop,Antonio Gates,MP,
+2014-09-24,Add,Alterraun Verner,MP,Waiver Wire
+2014-09-24,Drop,Chris Johnson,MW,
+2014-09-24,Add,Corey Liuget,MW,Waiver Wire
+2014-09-24,Drop,Dennis Pitta,JC,
+2014-09-24,Add,Jason Witten,JC,Waiver Wire
+2014-09-24,Drop,Thomas Davis,MM,
+2014-09-24,Add,Demario Davis,MM,Waiver Wire
+2014-09-24,Drop,Steven Hauschka,MP,
+2014-09-24,Add,Shaun Suisham,MP,Waiver Wire
+2014-09-24,Drop,DeAngelo Hall,JC,
+2014-09-24,Add,Kirk Cousins,JC,Waiver Wire
+2014-09-24,Drop,Greg Hardy,MM,
+2014-09-24,Add,Reggie Nelson,MM,Waiver Wire
+2014-09-24,Drop,Bernard Pierce,JC,
+2014-09-24,Add,Ryan Kerrigan,JC,Waiver Wire
+2014-09-24,Drop,Larry Fitzgerald,DB,
+2014-09-24,Add,Tahir Whitehead,DB,Free Agent
+2014-09-24,Drop,Roman Harper,DB,
+2014-09-24,Add,David Amerson,DB,Free Agent
+2014-09-24,Drop,Jordan Reed,JC,
+2014-09-24,Add,Antonio Allen,JC,Free Agent
+2014-09-24,Drop,Terrance West,MP,
+2014-09-24,Add,Sen'Derrick Marks,MP,Free Agent
+2014-09-24,Drop,Phil Dawson,MW,
+2014-09-24,Add,Cody Parkey,MW,Free Agent
+2014-09-24,Drop,Terence Newman,TJ,
+2014-09-24,Add,Corey Graham,TJ,Free Agent
+2014-09-24,Drop,Jerrell Freeman,TJ,
+2014-09-24,Add,Anthony Hitchens,TJ,Free Agent
+2014-09-24,Add,Khiry Robinson,SC,Free Agent
+2014-09-24,Drop,Mason Foster,CR,
+2014-09-24,Add,Devin McCourty,CR,Free Agent
+2014-09-24,Drop,Ryan Clark,CR,
+2014-09-24,Add,Malcolm Jenkins,CR,Free Agent
+2014-09-24,Drop,Anquan Boldin,CR,
+2014-09-24,Add,Bruce Carter,CR,Free Agent
+2014-09-24,Drop,Jonathan Dwyer,TP,
+2014-09-24,Add,DeAndre Hopkins,TP,Free Agent
+2014-09-24,Drop,Sen'Derrick Marks,MP,
+2014-09-24,Add,DeAngelo Williams,MP,Free Agent
+2014-09-25,Drop,Chad Greenway,BT,
+2014-09-25,Add,Anthony Barr,BT,Free Agent
+2014-09-27,Drop,Mark Ingram,DB,
+2014-09-27,Drop,Darren Sproles,MW,
+2014-09-27,Add,Mark Ingram,MW,Trade
+2014-09-27,Add,Darren Sproles,DB,Trade
+2014-09-27,Drop,Kendall Wright,MP,
+2014-09-27,Drop,Justin Tuck,TP,
+2014-09-27,Add,Kendall Wright,TP,Trade
+2014-09-27,Add,Justin Tuck,MP,Trade
+2014-09-27,Drop,Johnny Manziel,CR,
+2014-09-27,Add,Antonio Gates,CR,Waiver Wire
+2014-09-28,Drop,Da'Norris Searcy,BT,
+2014-09-28,Add,Kendrick Lewis,BT,Free Agent
+2014-09-28,Drop,Kyle Rudolph,TP,
+2014-09-28,Add,Tony Jefferson,TP,Free Agent
