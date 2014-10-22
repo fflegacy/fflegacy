@@ -37,6 +37,9 @@ convenience. The Action names match the column headers for the Stats table.
 The scoreable stats for each player in a given week. When combined with the
 Scoring table, you can find out the points each player earned in that week.
 
+**Before you commit, make sure you scrub out the emails.** There is a method
+that will do this for you.
+
 [YQL Query](http://developer.yahoo.com/yql/console/?q=select%20*%20from%20fantasysports.teams.roster.stats%20where%20team_key%3D'331.l.246998.t.1'%20and%20type%3Dweek%20and%20week%3D1):
 
     select * from fantasysports.teams.roster.stats where team_key='331.l.246998.t.1' and type=week and week=1
