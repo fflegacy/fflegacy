@@ -37,6 +37,10 @@ convenience. The Action names match the column headers for the Stats table.
 The scoreable stats for each player in a given week. When combined with the
 Scoring table, you can find out the points each player earned in that week.
 
+[YQL Query](http://developer.yahoo.com/yql/console/?q=select%20*%20from%20fantasysports.teams.roster.stats%20where%20team_key%3D'331.l.246998.t.1'%20and%20type%3Dweek%20and%20week%3D1):
+
+    select * from fantasysports.teams.roster.stats where team_key='331.l.246998.t.1' and type=week and week=1
+
 ### Matchups
 
 The matchups for the season. This includes Home and Away teams, which you may
@@ -64,8 +68,9 @@ think writing code is for nerds. CSVs are prepended with the season year they
 are for, and are currently kept in the `seasons` directory. If there ends up
 being data that is not season-specific, we can find another directory for it.
 
-Any scripts that are written will be kept in the `scripts` directory. If you'd
-like to contribute, make a pull request. There are no language restrictions.
+Raw JSON data will be kept in the `yql` directory. Any scripts that are written
+will be kept in the `scripts` directory. If you'd like to contribute, make
+a pull request. There are no language restrictions.
 
 ## Data Caveats
 
