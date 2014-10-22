@@ -116,11 +116,13 @@ def lookup_team
   players = []
   # determines roster of a team given the list of transactions
   CSV.foreach(File.expand_path("../../seasons/2014_transactions.csv", __FILE__), headers: true) do |csv|
-    if csv['Destination'].eql? team
-      players.push csv['Player/Pick']
-    elsif csv['Source'].eql? team
-      if players.delete(csv['Player/Pick']).nil?
-        raise "Cannot drop #{csv['Player/Pick']}: not on #{team}'s roster"
+    unless csv['Player/Pick'].match(/Round \d+/)
+      if csv['Destination'].eql? team
+        players.push csv['Player/Pick']
+      elsif csv['Source'].eql? team
+        if players.delete(csv['Player/Pick']).nil?
+          raise "Cannot drop #{csv['Player/Pick']}: not on #{team}'s roster"
+        end
       end
     end
   end
