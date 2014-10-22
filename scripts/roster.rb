@@ -58,7 +58,7 @@ end
 
 def update_from_json
   transactions = {}
-  File.open(File.expand_path("../../seasons/2014_transactions.json", __FILE__), 'r') do |f|
+  File.open(File.expand_path("../../yql/2014_transactions.json", __FILE__), 'r') do |f|
     transactions = JSON.load(f)['query']['results']['league']['transactions']
   end
 
