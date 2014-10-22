@@ -1,512 +1,595 @@
-Date,Type,Player,Team,Source
-2014-08-24,Add,LeSean McCoy,BT,Draft Pick
-2014-08-24,Add,Jamaal Charles,TJ,Draft Pick
-2014-08-24,Add,Matt Forte,CR,Draft Pick
-2014-08-24,Add,Adrian Peterson,JC,Draft Pick
-2014-08-24,Add,Eddie Lacy,MM,Draft Pick
-2014-08-24,Add,DeMarco Murray,TP,Draft Pick
-2014-08-24,Add,Giovani Bernard,DB,Draft Pick
-2014-08-24,Add,Calvin Johnson,MP,Draft Pick
-2014-08-24,Add,Marshawn Lynch,SC,Draft Pick
-2014-08-24,Add,Aaron Rodgers,MW,Draft Pick
-2014-08-24,Add,Dez Bryant,MW,Draft Pick
-2014-08-24,Add,Brandon Marshall,SC,Draft Pick
-2014-08-24,Add,Jimmy Graham,MP,Draft Pick
-2014-08-24,Add,A.J. Green,DB,Draft Pick
-2014-08-24,Add,Demaryius Thomas,TP,Draft Pick
-2014-08-24,Add,Montee Ball,MM,Draft Pick
-2014-08-24,Add,Peyton Manning,JC,Draft Pick
-2014-08-24,Add,Drew Brees,CR,Draft Pick
-2014-08-24,Add,Antonio Brown,TJ,Draft Pick
-2014-08-24,Add,Julio Jones,BT,Draft Pick
-2014-08-24,Add,Alshon Jeffrey,BT,Draft Pick
-2014-08-24,Add,Matthew Stafford,TJ,Draft Pick
-2014-08-24,Add,Randall Cobb,CR,Draft Pick
-2014-08-24,Add,Jordy Nelson,JC,Draft Pick
-2014-08-24,Add,Andrew Luck,MM,Draft Pick
-2014-08-24,Add,Rob Gronkowski,TP,Draft Pick
-2014-08-24,Add,Cam Newton,DB,Draft Pick
-2014-08-24,Add,Alfred Morris,MP,Draft Pick
-2014-08-24,Add,Russell Wilson,SC,Draft Pick
-2014-08-24,Add,Reggie Bush,MW,Draft Pick
-2014-08-24,Add,Chris Johnson,MW,Draft Pick
-2014-08-24,Add,Andre Ellington,SC,Draft Pick
-2014-08-24,Add,Arian Foster,MP,Draft Pick
-2014-08-24,Add,C.J. Spiller,DB,Draft Pick
-2014-08-24,Add,Matt Ryan,TP,Draft Pick
-2014-08-24,Add,J.J. Watt,MM,Draft Pick
-2014-08-24,Add,Zac Stacy,JC,Draft Pick
-2014-08-24,Add,Julius Thomas,CR,Draft Pick
-2014-08-24,Add,Frank Gore,TJ,Draft Pick
-2014-08-24,Add,Doug Martin,BT,Draft Pick
-2014-08-24,Add,Tom Brady,BT,Draft Pick
-2014-08-24,Add,Keenan Allen,TJ,Draft Pick
-2014-08-24,Add,Pierre Garcon,CR,Draft Pick
-2014-08-24,Add,Victor Cruz,JC,Draft Pick
-2014-08-24,Add,Vincent Jackson,MM,Draft Pick
-2014-08-24,Add,Luke Kuechly,TP,Draft Pick
-2014-08-24,Add,Martellus Bennett,DB,Draft Pick
-2014-08-24,Add,Roddy White,MP,Draft Pick
-2014-08-24,Add,Eric Decker,SC,Draft Pick
-2014-08-24,Add,Wes Welker,MW,Draft Pick
-2014-08-24,Add,Robert Quinn,MW,Draft Pick
-2014-08-24,Add,Daryl Smith,SC,Draft Pick
-2014-08-24,Add,Shane Vereen,MP,Draft Pick
-2014-08-24,Add,Vontaze Burfict,DB,Draft Pick
-2014-08-24,Add,Lavonte David,TP,Draft Pick
-2014-08-24,Add,Paul Posluszny,MM,Draft Pick
-2014-08-24,Add,Le'Veon Bell,JC,Draft Pick
-2014-08-24,Add,Chandler Jones,CR,Draft Pick
-2014-08-24,Add,Jordan Cameron,TJ,Draft Pick
-2014-08-24,Add,Andre Johnson,BT,Draft Pick
-2014-08-24,Add,Ben Tate,BT,Draft Pick
-2014-08-24,Add,Eric Weddle,TJ,Draft Pick
-2014-08-24,Add,Ryan Mathews,CR,Draft Pick
-2014-08-24,Add,DeMarcus Ware,JC,Draft Pick
-2014-08-24,Add,Jason Witten,MM,Draft Pick
-2014-08-24,Add,Toby Gerhart,TP,Draft Pick
-2014-08-24,Add,Calais Campbell,DB,Draft Pick
-2014-08-24,Add,Michael Crabtree,MP,Draft Pick
-2014-08-24,Add,Greg Olsen,SC,Draft Pick
-2014-08-24,Add,Rashad Jennings,MW,Draft Pick
-2014-08-24,Add,Jordan Reed,MW,Draft Pick
-2014-08-24,Add,Barry Church,SC,Draft Pick
-2014-08-24,Add,Patrick Willis,MP,Draft Pick
-2014-08-24,Add,Larry Fitzgerald,DB,Draft Pick
-2014-08-24,Add,Emmanuel Sanders,TP,Draft Pick
-2014-08-24,Add,Derrick Johnson,MM,Draft Pick
-2014-08-24,Add,Dennis Pitta,JC,Draft Pick
-2014-08-24,Add,DeSean Jackson,CR,Draft Pick
-2014-08-24,Add,T.Y. Hilton,TJ,Draft Pick
-2014-08-24,Add,Jerod Mayo,BT,Draft Pick
-2014-08-24,Add,Vernon Davis,BT,Draft Pick
-2014-08-24,Add,Cameron Jordan,TJ,Draft Pick
-2014-08-24,Add,Bobby Wagner,CR,Draft Pick
-2014-08-24,Add,Richard Sherman,JC,Draft Pick
-2014-08-24,Add,Greg Hardy,MM,Draft Pick
-2014-08-24,Add,Cameron Wake,TP,Draft Pick
-2014-08-24,Add,Karlos Dansby,DB,Draft Pick
-2014-08-24,Add,Johnathan Cyprien,MP,Draft Pick
-2014-08-24,Add,Leodis McKelvin,SC,Draft Pick
-2014-08-24,Add,Darren Sproles,MW,Draft Pick
-2014-08-24,Add,Lawrence Timmons,MW,Draft Pick
-2014-08-24,Add,Knowshon Moreno,SC,Draft Pick
-2014-08-24,Add,James Laurinaitis,MP,Draft Pick
-2014-08-24,Add,Jason Pierre-Paul,DB,Draft Pick
-2014-08-24,Add,Harrison Smith,TP,Draft Pick
-2014-08-24,Add,Morgan Burnett,MM,Draft Pick
-2014-08-24,Add,Julian Edelman,JC,Draft Pick
-2014-08-24,Add,T.J. Ward,CR,Draft Pick
-2014-08-24,Add,Pierre Thomas,TJ,Draft Pick
-2014-08-24,Add,Joique Bell,BT,Draft Pick
-2014-08-24,Add,Chad Greenway,BT,Draft Pick
-2014-08-24,Add,Jerrell Freeman,TJ,Draft Pick
-2014-08-24,Add,Steven Jackson,CR,Draft Pick
-2014-08-24,Add,Alec Ogletree,JC,Draft Pick
-2014-08-24,Add,Michael Floyd,MM,Draft Pick
-2014-08-24,Add,Rob Ninkovich,TP,Draft Pick
-2014-08-24,Add,Tyvon Branch,DB,Draft Pick
-2014-08-24,Add,Mario Williams,MP,Draft Pick
-2014-08-24,Add,Muhammad Wilkerson,SC,Draft Pick
-2014-08-24,Add,Sammy Watkins,MW,Draft Pick
-2014-08-24,Add,Steve Smith Sr.,MW,Draft Pick
-2014-08-24,Add,Curtis Lofton,SC,Draft Pick
-2014-08-24,Add,Reggie Wayne,MP,Draft Pick
-2014-08-24,Add,Kenny Vaccaro,DB,Draft Pick
-2014-08-24,Add,Paul Worrilow,TP,Draft Pick
-2014-08-24,Add,Ray Rice,MM,Draft Pick
-2014-08-24,Add,D'Qwell Jackson,JC,Draft Pick
-2014-08-24,Add,Lamar Miller,CR,Draft Pick
-2014-08-24,Add,Eric Berry,TJ,Draft Pick
-2014-08-24,Add,Brian Cushing,BT,Draft Pick
-2014-08-24,Add,Mark Barron,BT,Draft Pick
-2014-08-24,Add,Mychal Kendricks,TJ,Draft Pick
-2014-08-24,Add,Von Miller,CR,Draft Pick
-2014-08-24,Add,Bernard Pollard,JC,Draft Pick
-2014-08-24,Add,Wesley Woodyard,MM,Draft Pick
-2014-08-24,Add,Antrel Rolle,TP,Draft Pick
-2014-08-24,Add,Percy Harvin,DB,Draft Pick
-2014-08-24,Add,Jay Cutler,MP,Draft Pick
-2014-08-24,Add,Olivier Vernon,SC,Draft Pick
-2014-08-24,Add,Khalil Mack,MW,Draft Pick
-2014-08-24,Add,Justin Houston,MW,Draft Pick
-2014-08-24,Add,Perry Riley,SC,Draft Pick
-2014-08-24,Add,Earl Thomas,MP,Draft Pick
-2014-08-24,Add,C.J. Mosley,DB,Draft Pick
-2014-08-24,Add,Bishop Sankey,TP,Draft Pick
-2014-08-24,Add,Stevie Brown,MM,Draft Pick
-2014-08-24,Add,Jadeveon Clowney,JC,Draft Pick
-2014-08-24,Add,Kam Chancellor,CR,Draft Pick
-2014-08-24,Add,Carlos Dunlap,TJ,Draft Pick
-2014-08-24,Add,Jared Allen,BT,Draft Pick
-2014-08-24,Add,Nick Foles,BT,Draft Pick
-2014-08-24,Add,Zach Ertz,TJ,Draft Pick
-2014-08-24,Add,Lamarr Houston,CR,Draft Pick
-2014-08-24,Add,Chris Long,JC,Draft Pick
-2014-08-24,Add,Charles Tillman,MM,Draft Pick
-2014-08-24,Add,James Ihedigbo,TP,Draft Pick
-2014-08-24,Add,Roman Harper,DB,Draft Pick
-2014-08-24,Add,Ezekiel Ansah,MP,Draft Pick
-2014-08-24,Add,Matt Elam,SC,Draft Pick
-2014-08-24,Add,Tyrann Mathieu,MW,Draft Pick
-2014-08-24,Add,NaVorro Bowman,MW,Draft Pick
-2014-08-24,Add,Marques Colston,SC,Draft Pick
-2014-08-24,Add,Colin Kaepernick,MP,Draft Pick
-2014-08-24,Add,Trent Richardson,DB,Draft Pick
-2014-08-24,Add,Tony Romo,TP,Draft Pick
-2014-08-24,Add,Andy Dalton,MM,Draft Pick
-2014-08-24,Add,DeAngelo Hall,JC,Draft Pick
-2014-08-24,Add,Prince Amukamara,CR,Draft Pick
-2014-08-24,Add,Philip Rivers,TJ,Draft Pick
-2014-08-24,Add,DeMeco Ryans,BT,Draft Pick
-2014-08-24,Add,Michael Johnson,BT,Draft Pick
-2014-08-24,Add,Danny Woodhead,TJ,Draft Pick
-2014-08-24,Add,Jamie Collins,CR,Draft Pick
-2014-08-24,Add,Cordarrelle Patterson,JC,Draft Pick
-2014-08-24,Add,Maurice Jones-Drew,MM,Draft Pick
-2014-08-24,Add,Stevan Ridley,TP,Draft Pick
-2014-08-24,Add,Robert Griffin III,DB,Draft Pick
-2014-08-24,Add,Kendall Wright,MP,Draft Pick
-2014-08-24,Add,Torrey Smith,SC,Draft Pick
-2014-08-24,Add,Josh McCown,MW,Draft Pick
-2014-08-24,Add,Donte Whitner,MW,Draft Pick
-2014-08-24,Add,Ben Roethlisberger,SC,Draft Pick
-2014-08-24,Add,Robert Mathis,MP,Draft Pick
-2014-08-24,Add,Ryan Shazier,DB,Draft Pick
-2014-08-24,Add,Mike Wallace,TP,Draft Pick
-2014-08-24,Add,Stephen Gostkowski,MM,Draft Pick
-2014-08-24,Add,Darren McFadden,JC,Draft Pick
-2014-08-24,Add,Terrance Williams,CR,Draft Pick
-2014-08-24,Add,Malcolm Jenkins,TJ,Draft Pick
-2014-08-24,Add,Golden Tate,BT,Draft Pick
-2014-08-24,Add,Antoine Bethea,BT,Draft Pick
-2014-08-24,Add,Jarrett Boykin,TJ,Draft Pick
-2014-08-24,Add,Johnny Manziel,CR,Draft Pick
-2014-08-24,Add,Dwayne Bowe,JC,Draft Pick
-2014-08-24,Add,Danny Trevathan,MM,Draft Pick
-2014-08-24,Add,Kyle Rudolph,TP,Draft Pick
-2014-08-24,Add,Matt Prater,DB,Draft Pick
-2014-08-24,Add,Carlos Hyde,MP,Draft Pick
-2014-08-24,Add,Fred Jackson,SC,Draft Pick
-2014-08-24,Add,Jeremy Maclin,MW,Draft Pick
-2014-08-24,Add,Heath Miller,MW,Draft Pick
-2014-08-24,Add,Reshad Jones,SC,Draft Pick
-2014-08-24,Add,Patrick Peterson,MP,Draft Pick
-2014-08-24,Add,Rueben Randle,DB,Draft Pick
-2014-08-24,Add,Justin Tuck,TP,Draft Pick
-2014-08-24,Add,Charles Clay,MM,Draft Pick
-2014-08-24,Add,Tavon Austin,JC,Draft Pick
-2014-08-24,Add,Ladarius Green,CR,Draft Pick
-2014-08-24,Add,Zach Brown,TJ,Draft Pick
-2014-08-24,Add,Marcell Dareus,BT,Draft Pick
-2014-08-24,Add,Justin Tucker,BT,Draft Pick
-2014-08-24,Add,Ndamukong Suh,TJ,Draft Pick
-2014-08-24,Add,Robbie Gould,CR,Draft Pick
-2014-08-24,Add,Bernard Pierce,JC,Draft Pick
-2014-08-24,Add,Mike Evans,MM,Draft Pick
-2014-08-24,Add,LaRon Landry,TP,Draft Pick
-2014-08-24,Add,Charles Johnson,DB,Draft Pick
-2014-08-24,Add,Donald Butler,MP,Draft Pick
-2014-08-24,Add,Stephen Tulloch,SC,Draft Pick
-2014-08-24,Add,Justin Smith,MW,Draft Pick
-2014-08-24,Add,Jairus Byrd,MW,Draft Pick
-2014-08-24,Add,Jurrell Casey,SC,Draft Pick
-2014-08-24,Add,Dwayne Allen,MP,Draft Pick
-2014-08-24,Add,Mark Ingram,DB,Draft Pick
-2014-08-24,Add,Nick Roach,TP,Draft Pick
-2014-08-24,Add,Thomas Davis,MM,Draft Pick
-2014-08-24,Add,Clay Matthews,JC,Draft Pick
-2014-08-24,Add,Mason Foster,CR,Draft Pick
-2014-08-24,Add,Alterraun Verner,TJ,Draft Pick
-2014-08-24,Add,Calvin Pryor,BT,Draft Pick
-2014-08-24,Add,Antonio Gates,BT,Draft Pick
-2014-08-24,Add,Kevin Minter,TJ,Draft Pick
-2014-08-24,Add,Anquan Boldin,CR,Draft Pick
-2014-08-24,Add,Alex Smith,JC,Draft Pick
-2014-08-24,Add,Jeremy Hill,MM,Draft Pick
-2014-08-24,Add,Cecil Shorts III,TP,Draft Pick
-2014-08-24,Add,DeAndre Hopkins,DB,Draft Pick
-2014-08-24,Add,Steven Hauschka,MP,Draft Pick
-2014-08-24,Add,Riley Cooper,SC,Draft Pick
-2014-08-24,Add,Phil Dawson,MW,Draft Pick
-2014-08-24,Add,Hakeem Nicks,MW,Draft Pick
-2014-08-24,Add,Mason Crosby,SC,Draft Pick
-2014-08-24,Add,Terrance West,MP,Draft Pick
-2014-08-24,Add,Lance Briggs,DB,Draft Pick
-2014-08-24,Add,Matt Bryant,TP,Draft Pick
-2014-08-24,Add,Marvin Jones,MM,Draft Pick
-2014-08-24,Add,Blair Walsh,JC,Draft Pick
-2014-08-24,Add,Ryan Clark,CR,Draft Pick
-2014-08-24,Add,Adam Vinatieri,TJ,Draft Pick
-2014-08-24,Add,Joe Haden,BT,Draft Pick
-2014-08-24,Drop,Zac Stacy,JC,
-2014-08-24,Drop,Arian Foster,MP,
-2014-08-24,Add,Arian Foster,JC,Draft Day Trade
-2014-08-24,Add,Zac Stacy,MP,Draft Day Trade
-2014-08-24,Drop,Tavon Austin,JC,
-2014-08-27,Drop,Justin Smith,MW,
-2014-08-27,Add,Sheldon Richardson,MW,Waiver Wire
-2014-08-27,Drop,DeAndre Hopkins,DB,
-2014-08-27,Add,Dan Bailey,DB,Waiver Wire
-2014-08-27,Drop,NaVorro Bowman,MW,
-2014-08-27,Add,DeAndre Levy,MW,Waiver Wire
-2014-08-27,Drop,Charles Johnson,DB,
-2014-08-27,Add,Gerald McCoy,DB,Waiver Wire
-2014-08-27,Drop,Hakeem Nicks,MW,
-2014-08-27,Add,Kelvin Benjamin,MW,Waiver Wire
-2014-08-27,Add,Tim Wright,JC,Free Agent
-2014-08-27,Drop,Heath Miller,MW,
-2014-08-27,Add,Josh Gordon,MW,Free Agent
-2014-08-27,Drop,Robert Mathis,MP,
-2014-08-27,Add,Geno Atkins,MP,Free Agent
-2014-08-27,Drop,Dwayne Allen,MP,
-2014-08-27,Add,Tamba Hali,MP,Free Agent
-2014-08-27,Drop,Josh Gordon,MW,
-2014-08-27,Add,Charles Woodson,MW,Free Agent
-2014-08-27,Drop,Matt Prater,DB,
-2014-08-27,Add,Brandin Cooks,DB,Free Agent
-2014-08-30,Drop,Terrance West,MP,
-2014-08-30,Add,Benny Cunningham,MP,Free Agent
-2014-09-01,Drop,Kevin Minter,TJ,
-2014-09-01,Add,Barkevious Mingo,TJ,Free Agent
-2014-09-02,Drop,Malcolm Jenkins,TJ,
-2014-09-02,Add,William Moore,TJ,Free Agent
-2014-09-02,Drop,Leodis McKelvin,SC,
-2014-09-02,Add,D.J. Swearinger,SC,Free Agent
-2014-09-03,Drop,Bobby Wagner,CR,
-2014-09-03,Add,Andy Mulumba,CR,Free Agent
-2014-09-04,Drop,Danny Trevathan,MM,
-2014-09-04,Add,Louis Delmas,MM,Free Agent
-2014-09-05,Drop,Steve Smith Sr.,MW,
-2014-09-05,Add,LaMarr Woodley,MW,Free Agent
-2014-09-05,Drop,Cecil Shorts III,TP,
-2014-09-05,Add,Jonathan Dwyer,TP,Free Agent
-2014-09-05,Drop,Andy Mulumba,CR,
-2014-09-05,Add,Bobby Wagner,CR,Special
-2014-09-07,Drop,Antonio Gates,BT,
-2014-09-07,Add,Josh Gordon,BT,Free Agent
-2014-09-10,Drop,Marcell Dareus,BT,
-2014-09-10,Add,Everson Griffen,BT,Waiver Wire
-2014-09-10,Drop,Ezekiel Ansah,MP,
-2014-09-10,Add,Justin Smith,MP,Waiver Wire
-2014-09-10,Drop,Ray Rice,MM,
-2014-09-10,Add,Justin Forsett,MM,Waiver Wire
-2014-09-10,Drop,Chris Long,JC,
-2014-09-10,Add,Derrick Morgan,JC,Waiver Wire
-2014-09-10,Drop,LaMarr Woodley,MW,
-2014-09-10,Add,Leodis McKelvin,MW,Waiver Wire
-2014-09-10,Drop,Zach Brown,TJ,
-2014-09-10,Add,Nate Irving,TJ,Waiver Wire
-2014-09-10,Drop,Joe Haden,BT,
-2014-09-10,Add,Ha Ha Clinton-Dix,BT,Waiver Wire
-2014-09-10,Drop,Geno Atkins,MP,
-2014-09-10,Add,Eric Reid,MP,Waiver Wire
-2014-09-10,Drop,Derrick Johnson,MM,
-2014-09-10,Add,Greg Jennings,MM,Waiver Wire
-2014-09-10,Drop,Jordan Reed,MW,
-2014-09-10,Add,Travis Kelce,MW,Waiver Wire
-2014-09-10,Drop,Tamba Hali,MP,
-2014-09-10,Add,Sio Moore,MP,Waiver Wire
-2014-09-10,Drop,Sheldon Richardson,MW,
-2014-09-10,Add,Jason Hatcher,MW,Waiver Wire
-2014-09-10,Drop,Benny Cunningham,MP,
-2014-09-10,Add,Shonn Greene,MP,Waiver Wire
-2014-09-10,Drop,Darren McFadden,JC,
-2014-09-10,Add,Markus Wheaton,JC,Free Agent
-2014-09-10,Drop,Patrick Peterson,MP,
-2014-09-10,Add,Malcolm Jenkins,MP,Free Agent
-2014-09-10,Drop,Donald Butler,MP,
-2014-09-10,Add,Terrance West,MP,Free Agent
-2014-09-10,Drop,Marvin Jones,MM,
-2014-09-10,Add,Danny Trevathan,MM,Free Agent
-2014-09-10,Drop,Lance Briggs,DB,
-2014-09-10,Add,A.J. Hawk,DB,Free Agent
-2014-09-12,Drop,Malcolm Jenkins,MP,
-2014-09-12,Add,Ahmad Bradshaw,MP,Free Agent
-2014-09-12,Drop,Ladarius Green,CR,
-2014-09-12,Add,Matt Asiata,CR,Free Agent
-2014-09-12,Drop,Tim Wright,JC,
-2014-09-12,Add,Chris Ivory,JC,Free Agent
-2014-09-14,Drop,Shonn Greene,MP,
-2014-09-14,Drop,Sio Moore,MP,
-2014-09-14,Drop,Calvin Pryor,BT,
-2014-09-14,Drop,Brian Cushing,BT,
-2014-09-14,Add,Shonn Greene,BT,Trade
-2014-09-14,Add,Sio Moore,BT,Trade
-2014-09-14,Add,Calvin Pryor,MP,Trade
-2014-09-14,Add,Brian Cushing,MP,Trade
-2014-09-14,Drop,Alterraun Verner,TJ,
-2014-09-14,Add,K.J. Wright,TJ,Free Agent
-2014-09-17,Drop,Ha Ha Clinton-Dix,BT,
-2014-09-17,Add,Knile Davis,BT,Waiver Wire
-2014-09-17,Drop,Louis Delmas,MM,
-2014-09-17,Add,Antoine Cason,MM,Waiver Wire
-2014-09-17,Drop,Carlos Hyde,MP,
-2014-09-17,Add,Antonio Gates,MP,Waiver Wire
-2014-09-17,Drop,Jairus Byrd,MW,
-2014-09-17,Add,Delanie Walker,MW,Waiver Wire
-2014-09-17,Drop,Jadeveon Clowney,JC,
-2014-09-17,Add,Kyle Fuller,JC,Waiver Wire
-2014-09-17,Drop,A.J. Hawk,DB,
-2014-09-17,Add,Willie Young,DB,Waiver Wire
-2014-09-17,Drop,Ben Tate,BT,
-2014-09-17,Add,Kirk Cousins,BT,Waiver Wire
-2014-09-17,Drop,Stevie Brown,MM,
-2014-09-17,Add,Dashon Goldson,MM,Waiver Wire
-2014-09-17,Drop,Eric Reid,MP,
-2014-09-17,Add,Michael Bennett,MP,Waiver Wire
-2014-09-17,Add,Fletcher Cox,MM,Free Agent
-2014-09-17,Drop,Jason Witten,MM,
-2014-09-17,Add,Larry Donnell,MM,Free Agent
-2014-09-17,Drop,Alex Smith,JC,
-2014-09-17,Add,Jordan Reed,JC,Free Agent
-2014-09-17,Drop,Ryan Mathews,CR,
-2014-09-17,Add,Zaviar Gooden,CR,Free Agent
-2014-09-17,Drop,Jared Allen,BT,
-2014-09-17,Add,Da'Norris Searcy,BT,Free Agent
-2014-09-17,Drop,Jarrett Boykin,TJ,
-2014-09-17,Add,Terence Newman,TJ,Free Agent
-2014-09-18,Drop,Justin Smith,MP,
-2014-09-18,Add,Bobby Rainey,MP,Free Agent
-2014-09-18,Drop,Vontaze Burfict,DB,
-2014-09-18,Add,Brandon Marshall,DB,Free Agent
-2014-09-18,Drop,Barkevious Mingo,TJ,
-2014-09-18,Add,Keenan Robinson,TJ,Free Agent
-2014-09-20,Drop,Knile Davis,BT,
-2014-09-20,Drop,Calais Campbell,DB,
-2014-09-20,Add,Knile Davis,DB,Trade
-2014-09-20,Add,Calais Campbell,BT,Trade
-2014-09-20,Drop,Robert Griffin III,DB,
-2014-09-20,Add,Preston Brown,DB,Free Agent
-2014-09-21,Drop,Sio Moore,BT,
-2014-09-21,Add,Vontaze Burfict,BT,Free Agent
-2014-09-21,Drop,Kirk Cousins,BT,
-2014-09-21,Add,Niles Paul,BT,Free Agent
-2014-09-23,Drop,Tyvon Branch,DB,
-2014-09-24,Drop,Niles Paul,BT,
-2014-09-24,Add,Lorenzo Taliaferro,BT,Waiver Wire
-2014-09-24,Drop,Maurice Jones-Drew,MM,
-2014-09-24,Add,Donald Brown,MM,Waiver Wire
-2014-09-24,Drop,Michael Bennett,MP,
-2014-09-24,Add,Tamba Hali,MP,Waiver Wire
-2014-09-24,Add,Jelani Jenkins,TJ,Waiver Wire
-2014-09-24,Drop,Josh McCown,MW,
-2014-09-24,Add,Dominique Rodgers-Cromartie,MW,Waiver Wire
-2014-09-24,Drop,Dwayne Bowe,JC,
-2014-09-24,Add,Sheldon Richardson,JC,Waiver Wire
-2014-09-24,Add,Aaron Williams,DB,Waiver Wire
-2014-09-24,Drop,Michael Johnson,BT,
-2014-09-24,Add,Mario Addison,BT,Waiver Wire
-2014-09-24,Drop,Charles Clay,MM,
-2014-09-24,Add,Steve Smith Sr.,MM,Waiver Wire
-2014-09-24,Drop,Antonio Gates,MP,
-2014-09-24,Add,Alterraun Verner,MP,Waiver Wire
-2014-09-24,Drop,Chris Johnson,MW,
-2014-09-24,Add,Corey Liuget,MW,Waiver Wire
-2014-09-24,Drop,Dennis Pitta,JC,
-2014-09-24,Add,Jason Witten,JC,Waiver Wire
-2014-09-24,Drop,Thomas Davis,MM,
-2014-09-24,Add,Demario Davis,MM,Waiver Wire
-2014-09-24,Drop,Steven Hauschka,MP,
-2014-09-24,Add,Shaun Suisham,MP,Waiver Wire
-2014-09-24,Drop,DeAngelo Hall,JC,
-2014-09-24,Add,Kirk Cousins,JC,Waiver Wire
-2014-09-24,Drop,Greg Hardy,MM,
-2014-09-24,Add,Reggie Nelson,MM,Waiver Wire
-2014-09-24,Drop,Bernard Pierce,JC,
-2014-09-24,Add,Ryan Kerrigan,JC,Waiver Wire
-2014-09-24,Drop,Larry Fitzgerald,DB,
-2014-09-24,Add,Tahir Whitehead,DB,Free Agent
-2014-09-24,Drop,Roman Harper,DB,
-2014-09-24,Add,David Amerson,DB,Free Agent
-2014-09-24,Drop,Jordan Reed,JC,
-2014-09-24,Add,Antonio Allen,JC,Free Agent
-2014-09-24,Drop,Terrance West,MP,
-2014-09-24,Add,Sen'Derrick Marks,MP,Free Agent
-2014-09-24,Drop,Phil Dawson,MW,
-2014-09-24,Add,Cody Parkey,MW,Free Agent
-2014-09-24,Drop,Terence Newman,TJ,
-2014-09-24,Add,Corey Graham,TJ,Free Agent
-2014-09-24,Drop,Jerrell Freeman,TJ,
-2014-09-24,Add,Anthony Hitchens,TJ,Free Agent
-2014-09-24,Add,Khiry Robinson,SC,Free Agent
-2014-09-24,Drop,Mason Foster,CR,
-2014-09-24,Add,Devin McCourty,CR,Free Agent
-2014-09-24,Drop,Ryan Clark,CR,
-2014-09-24,Add,Malcolm Jenkins,CR,Free Agent
-2014-09-24,Drop,Anquan Boldin,CR,
-2014-09-24,Add,Bruce Carter,CR,Free Agent
-2014-09-24,Drop,Jonathan Dwyer,TP,
-2014-09-24,Add,DeAndre Hopkins,TP,Free Agent
-2014-09-24,Drop,Sen'Derrick Marks,MP,
-2014-09-24,Add,DeAngelo Williams,MP,Free Agent
-2014-09-25,Drop,Chad Greenway,BT,
-2014-09-25,Add,Anthony Barr,BT,Free Agent
-2014-09-27,Drop,Mark Ingram,DB,
-2014-09-27,Drop,Darren Sproles,MW,
-2014-09-27,Add,Mark Ingram,MW,Trade
-2014-09-27,Add,Darren Sproles,DB,Trade
-2014-09-27,Drop,Kendall Wright,MP,
-2014-09-27,Drop,Justin Tuck,TP,
-2014-09-27,Add,Kendall Wright,TP,Trade
-2014-09-27,Add,Justin Tuck,MP,Trade
-2014-09-27,Drop,Johnny Manziel,CR,
-2014-09-27,Add,Antonio Gates,CR,Waiver Wire
-2014-09-28,Drop,Da'Norris Searcy,BT,
-2014-09-28,Add,Kendrick Lewis,BT,Free Agent
-2014-09-28,Drop,Kyle Rudolph,TP,
-2014-09-28,Add,Tony Jefferson,TP,Free Agent
-2014-09-30,Drop,Danny Woodhead,TJ,
-2014-10-01,Drop,Ryan Shazier,DB,
-2014-10-01,Add,Trumaine McBridge,DB,Free Agent
-2014-10-01,Drop,Shonn Greene,BT,
-2014-10-01,Add,Ben Tate,BT,Waiver Wire
-2014-10-01,Drop,DeAngelo Williams,MP,
-2014-10-01,Add,Michael Johnson,MP,Waiver Wire
-2014-10-01,Drop,Mike Evans,MM,
-2014-10-01,Add,Eddie Royal,MM,Waiver Wire
-2014-10-01,Add,Patrick Peterson,TJ,Waiver Wire
-2014-10-01,Drop,Kirk Cousins,JC,
-2014-10-01,Add,Jerick McKinnon,JC,Waiver Wire
-2014-10-01,Drop,Bruce Carter,CR,
-2014-10-01,Add,Anquan Boldin,CR,Waiver Wire
-2014-10-01,Drop,LaRon Landry,TP,
-2014-10-01,Add,Marcell Dareus,TP,Waiver Wire
-2014-10-01,Drop,Mario Addison,BT,
-2014-10-01,Add,Michael Bennett,BT,Waiver Wire
-2014-10-01,Drop,Bobby Rainey,MP,
-2014-10-01,Add,Heath Miller,MP,Waiver Wire
-2014-10-01,Drop,Derrick Morgan,JC,
-2014-10-01,Add,Dwayne Allen,JC,Waiver Wire
-2014-10-01,Drop,Tom Brady,BT,
-2014-10-01,Add,Eli Manning,BT,Waiver Wire
-2014-10-01,Drop,Shaun Suisham,MP,
-2014-10-01,Add,Phil Dawson,MP,Waiver Wire
-2014-10-01,Drop,Alterraun Verner,MP,
-2014-10-01,Add,Dawan Landry,MP,Waiver Wire
-2014-10-01,Drop,Antonio Allen,JC,
-2014-10-01,Add,Jordan Reed,JC,Free Agent
-2014-10-01,Drop,Jason Hatcher,MW,
-2014-10-01,Add,Roy Helu Jr.,MW,Free Agent
-2014-10-01,Drop,Nick Roach,TP,
-2014-10-01,Add,A.J. Hawk,TP,Free Agent
-2014-10-01,Drop,Phil Dawson,MP,
-2014-10-01,Add,Nick Novak,MP,Free Agent
-2014-10-02,Drop,Corey Liuget,MW,
-2014-10-02,Add,Cameron Heyward,MW,Free Agent
-2014-10-02,Drop,Dashon Goldson,MM,
-2014-10-02,Add,Johnathan Joseph,MM,Free Agent
-2014-10-03,Drop,Dominique Rodgers-Cromartie,MW,
-2014-10-03,Add,Kirk Cousins,MW,Waiver Wire
-2014-10-04,Drop,Philip Rivers,TJ,
-2014-10-04,Drop,Nick Foles,BT,
-2014-10-04,Drop,Antoine Bethea,BT,
-2014-10-04,Add,Philip Rivers,BT,Trade
-2014-10-04,Add,Nick Foles,TJ,Trade
-2014-10-04,Add,Antoine Bethea,TJ,Trade
-2014-10-04,Drop,Anthony Hitchens,TJ,
-2014-10-04,Add,Ryan Mundy,BT,Free Agent
-2014-10-04,Drop,Anthony Barr,BT,
-2014-10-04,Add,Larry Foote,BT,Free Agent
-2014-10-04,Drop,Eli Manning,BT,
-2014-10-04,Add,Jared Cook,BT,Free Agent
+Date,Type,Player/Pick,Source,Destination
+2014-08-24,add,LeSean McCoy,draftpicks,BT
+2014-08-24,add,Jamaal Charles,draftpicks,TJ
+2014-08-24,add,Matt Forte,draftpicks,CR
+2014-08-24,add,Adrian Peterson,draftpicks,JC
+2014-08-24,add,Eddie Lacy,draftpicks,MM
+2014-08-24,add,DeMarco Murray,draftpicks,TP
+2014-08-24,add,Giovani Bernard,draftpicks,DB
+2014-08-24,add,Calvin Johnson,draftpicks,MP
+2014-08-24,add,Marshawn Lynch,draftpicks,SC
+2014-08-24,add,Aaron Rodgers,draftpicks,MW
+2014-08-24,add,Dez Bryant,draftpicks,MW
+2014-08-24,add,Brandon Marshall,draftpicks,SC
+2014-08-24,add,Jimmy Graham,draftpicks,MP
+2014-08-24,add,A.J. Green,draftpicks,DB
+2014-08-24,add,Demaryius Thomas,draftpicks,TP
+2014-08-24,add,Montee Ball,draftpicks,MM
+2014-08-24,add,Peyton Manning,draftpicks,JC
+2014-08-24,add,Drew Brees,draftpicks,CR
+2014-08-24,add,Antonio Brown,draftpicks,TJ
+2014-08-24,add,Julio Jones,draftpicks,BT
+2014-08-24,add,Alshon Jeffrey,draftpicks,BT
+2014-08-24,add,Matthew Stafford,draftpicks,TJ
+2014-08-24,add,Randall Cobb,draftpicks,CR
+2014-08-24,add,Jordy Nelson,draftpicks,JC
+2014-08-24,add,Andrew Luck,draftpicks,MM
+2014-08-24,add,Rob Gronkowski,draftpicks,TP
+2014-08-24,add,Cam Newton,draftpicks,DB
+2014-08-24,add,Alfred Morris,draftpicks,MP
+2014-08-24,add,Russell Wilson,draftpicks,SC
+2014-08-24,add,Reggie Bush,draftpicks,MW
+2014-08-24,add,Chris Johnson,draftpicks,MW
+2014-08-24,add,Andre Ellington,draftpicks,SC
+2014-08-24,add,Arian Foster,draftpicks,MP
+2014-08-24,add,C.J. Spiller,draftpicks,DB
+2014-08-24,add,Matt Ryan,draftpicks,TP
+2014-08-24,add,J.J. Watt,draftpicks,MM
+2014-08-24,add,Zac Stacy,draftpicks,JC
+2014-08-24,trade,Zac Stacy,JC,MP
+2014-08-24,trade,Arian Foster,MP,JC
+2014-08-24,add,Julius Thomas,draftpicks,CR
+2014-08-24,add,Frank Gore,draftpicks,TJ
+2014-08-24,add,Doug Martin,draftpicks,BT
+2014-08-24,add,Tom Brady,draftpicks,BT
+2014-08-24,add,Keenan Allen,draftpicks,TJ
+2014-08-24,add,Pierre Garcon,draftpicks,CR
+2014-08-24,add,Victor Cruz,draftpicks,JC
+2014-08-24,add,Vincent Jackson,draftpicks,MM
+2014-08-24,add,Luke Kuechly,draftpicks,TP
+2014-08-24,add,Martellus Bennett,draftpicks,DB
+2014-08-24,add,Roddy White,draftpicks,MP
+2014-08-24,add,Eric Decker,draftpicks,SC
+2014-08-24,add,Wes Welker,draftpicks,MW
+2014-08-24,add,Robert Quinn,draftpicks,MW
+2014-08-24,add,Daryl Smith,draftpicks,SC
+2014-08-24,add,Shane Vereen,draftpicks,MP
+2014-08-24,add,Vontaze Burfict,draftpicks,DB
+2014-08-24,add,Lavonte David,draftpicks,TP
+2014-08-24,add,Paul Posluszny,draftpicks,MM
+2014-08-24,add,Le'Veon Bell,draftpicks,JC
+2014-08-24,add,Chandler Jones,draftpicks,CR
+2014-08-24,add,Jordan Cameron,draftpicks,TJ
+2014-08-24,add,Andre Johnson,draftpicks,BT
+2014-08-24,add,Ben Tate,draftpicks,BT
+2014-08-24,add,Eric Weddle,draftpicks,TJ
+2014-08-24,add,Ryan Mathews,draftpicks,CR
+2014-08-24,add,DeMarcus Ware,draftpicks,JC
+2014-08-24,add,Jason Witten,draftpicks,MM
+2014-08-24,add,Toby Gerhart,draftpicks,TP
+2014-08-24,add,Calais Campbell,draftpicks,DB
+2014-08-24,add,Michael Crabtree,draftpicks,MP
+2014-08-24,add,Greg Olsen,draftpicks,SC
+2014-08-24,add,Rashad Jennings,draftpicks,MW
+2014-08-24,add,Jordan Reed,draftpicks,MW
+2014-08-24,add,Barry Church,draftpicks,SC
+2014-08-24,add,Patrick Willis,draftpicks,MP
+2014-08-24,add,Larry Fitzgerald,draftpicks,DB
+2014-08-24,add,Emmanuel Sanders,draftpicks,TP
+2014-08-24,add,Derrick Johnson,draftpicks,MM
+2014-08-24,add,Dennis Pitta,draftpicks,JC
+2014-08-24,add,DeSean Jackson,draftpicks,CR
+2014-08-24,add,T.Y. Hilton,draftpicks,TJ
+2014-08-24,add,Jerod Mayo,draftpicks,BT
+2014-08-24,add,Vernon Davis,draftpicks,BT
+2014-08-24,add,Cameron Jordan,draftpicks,TJ
+2014-08-24,add,Bobby Wagner,draftpicks,CR
+2014-08-24,add,Richard Sherman,draftpicks,JC
+2014-08-24,add,Greg Hardy,draftpicks,MM
+2014-08-24,add,Cameron Wake,draftpicks,TP
+2014-08-24,add,Karlos Dansby,draftpicks,DB
+2014-08-24,add,Johnathan Cyprien,draftpicks,MP
+2014-08-24,add,Leodis McKelvin,draftpicks,SC
+2014-08-24,add,Darren Sproles,draftpicks,MW
+2014-08-24,add,Lawrence Timmons,draftpicks,MW
+2014-08-24,add,Knowshon Moreno,draftpicks,SC
+2014-08-24,add,James Laurinaitis,draftpicks,MP
+2014-08-24,add,Jason Pierre-Paul,draftpicks,DB
+2014-08-24,add,Harrison Smith,draftpicks,TP
+2014-08-24,add,Morgan Burnett,draftpicks,MM
+2014-08-24,add,Julian Edelman,draftpicks,JC
+2014-08-24,add,T.J. Ward,draftpicks,CR
+2014-08-24,add,Pierre Thomas,draftpicks,TJ
+2014-08-24,add,Joique Bell,draftpicks,BT
+2014-08-24,add,Chad Greenway,draftpicks,BT
+2014-08-24,add,Jerrell Freeman,draftpicks,TJ
+2014-08-24,add,Steven Jackson,draftpicks,CR
+2014-08-24,add,Alec Ogletree,draftpicks,JC
+2014-08-24,add,Michael Floyd,draftpicks,MM
+2014-08-24,add,Rob Ninkovich,draftpicks,TP
+2014-08-24,add,Tyvon Branch,draftpicks,DB
+2014-08-24,add,Mario Williams,draftpicks,MP
+2014-08-24,add,Muhammad Wilkerson,draftpicks,SC
+2014-08-24,add,Sammy Watkins,draftpicks,MW
+2014-08-24,add,Steve Smith Sr.,draftpicks,MW
+2014-08-24,add,Curtis Lofton,draftpicks,SC
+2014-08-24,add,Reggie Wayne,draftpicks,MP
+2014-08-24,add,Kenny Vaccaro,draftpicks,DB
+2014-08-24,add,Paul Worrilow,draftpicks,TP
+2014-08-24,add,Ray Rice,draftpicks,MM
+2014-08-24,add,D'Qwell Jackson,draftpicks,JC
+2014-08-24,add,Lamar Miller,draftpicks,CR
+2014-08-24,add,Eric Berry,draftpicks,TJ
+2014-08-24,add,Brian Cushing,draftpicks,BT
+2014-08-24,add,Mark Barron,draftpicks,BT
+2014-08-24,add,Mychal Kendricks,draftpicks,TJ
+2014-08-24,add,Von Miller,draftpicks,CR
+2014-08-24,add,Bernard Pollard,draftpicks,JC
+2014-08-24,add,Wesley Woodyard,draftpicks,MM
+2014-08-24,add,Antrel Rolle,draftpicks,TP
+2014-08-24,add,Percy Harvin,draftpicks,DB
+2014-08-24,add,Jay Cutler,draftpicks,MP
+2014-08-24,add,Olivier Vernon,draftpicks,SC
+2014-08-24,add,Khalil Mack,draftpicks,MW
+2014-08-24,add,Justin Houston,draftpicks,MW
+2014-08-24,add,Perry Riley,draftpicks,SC
+2014-08-24,add,Earl Thomas,draftpicks,MP
+2014-08-24,add,C.J. Mosley,draftpicks,DB
+2014-08-24,add,Bishop Sankey,draftpicks,TP
+2014-08-24,add,Stevie Brown,draftpicks,MM
+2014-08-24,add,Jadeveon Clowney,draftpicks,JC
+2014-08-24,add,Kam Chancellor,draftpicks,CR
+2014-08-24,add,Carlos Dunlap,draftpicks,TJ
+2014-08-24,add,Jared Allen,draftpicks,BT
+2014-08-24,add,Nick Foles,draftpicks,BT
+2014-08-24,add,Zach Ertz,draftpicks,TJ
+2014-08-24,add,Lamarr Houston,draftpicks,CR
+2014-08-24,add,Chris Long,draftpicks,JC
+2014-08-24,add,Charles Tillman,draftpicks,MM
+2014-08-24,add,James Ihedigbo,draftpicks,TP
+2014-08-24,add,Roman Harper,draftpicks,DB
+2014-08-24,add,Ezekiel Ansah,draftpicks,MP
+2014-08-24,add,Matt Elam,draftpicks,SC
+2014-08-24,add,Tyrann Mathieu,draftpicks,MW
+2014-08-24,add,NaVorro Bowman,draftpicks,MW
+2014-08-24,add,Marques Colston,draftpicks,SC
+2014-08-24,add,Colin Kaepernick,draftpicks,MP
+2014-08-24,add,Trent Richardson,draftpicks,DB
+2014-08-24,add,Tony Romo,draftpicks,TP
+2014-08-24,add,Andy Dalton,draftpicks,MM
+2014-08-24,add,DeAngelo Hall,draftpicks,JC
+2014-08-24,add,Prince Amukamara,draftpicks,CR
+2014-08-24,add,Philip Rivers,draftpicks,TJ
+2014-08-24,add,DeMeco Ryans,draftpicks,BT
+2014-08-24,add,Michael Johnson,draftpicks,BT
+2014-08-24,add,Danny Woodhead,draftpicks,TJ
+2014-08-24,add,Jamie Collins,draftpicks,CR
+2014-08-24,add,Cordarrelle Patterson,draftpicks,JC
+2014-08-24,add,Maurice Jones-Drew,draftpicks,MM
+2014-08-24,add,Stevan Ridley,draftpicks,TP
+2014-08-24,add,Robert Griffin III,draftpicks,DB
+2014-08-24,add,Kendall Wright,draftpicks,MP
+2014-08-24,add,Torrey Smith,draftpicks,SC
+2014-08-24,add,Josh McCown,draftpicks,MW
+2014-08-24,add,Donte Whitner,draftpicks,MW
+2014-08-24,add,Ben Roethlisberger,draftpicks,SC
+2014-08-24,add,Robert Mathis,draftpicks,MP
+2014-08-24,add,Ryan Shazier,draftpicks,DB
+2014-08-24,add,Mike Wallace,draftpicks,TP
+2014-08-24,add,Stephen Gostkowski,draftpicks,MM
+2014-08-24,add,Darren McFadden,draftpicks,JC
+2014-08-24,add,Terrance Williams,draftpicks,CR
+2014-08-24,add,Malcolm Jenkins,draftpicks,TJ
+2014-08-24,add,Golden Tate,draftpicks,BT
+2014-08-24,add,Antoine Bethea,draftpicks,BT
+2014-08-24,add,Jarrett Boykin,draftpicks,TJ
+2014-08-24,add,Johnny Manziel,draftpicks,CR
+2014-08-24,add,Dwayne Bowe,draftpicks,JC
+2014-08-24,add,Danny Trevathan,draftpicks,MM
+2014-08-24,add,Kyle Rudolph,draftpicks,TP
+2014-08-24,add,Matt Prater,draftpicks,DB
+2014-08-24,add,Carlos Hyde,draftpicks,MP
+2014-08-24,add,Fred Jackson,draftpicks,SC
+2014-08-24,add,Jeremy Maclin,draftpicks,MW
+2014-08-24,add,Heath Miller,draftpicks,MW
+2014-08-24,add,Reshad Jones,draftpicks,SC
+2014-08-24,add,Patrick Peterson,draftpicks,MP
+2014-08-24,add,Rueben Randle,draftpicks,DB
+2014-08-24,add,Justin Tuck,draftpicks,TP
+2014-08-24,add,Charles Clay,draftpicks,MM
+2014-08-24,add,Tavon Austin,draftpicks,JC
+2014-08-24,add,Ladarius Green,draftpicks,CR
+2014-08-24,add,Zach Brown,draftpicks,TJ
+2014-08-24,add,Marcell Dareus,draftpicks,BT
+2014-08-24,add,Justin Tucker,draftpicks,BT
+2014-08-24,add,Ndamukong Suh,draftpicks,TJ
+2014-08-24,add,Robbie Gould,draftpicks,CR
+2014-08-24,add,Bernard Pierce,draftpicks,JC
+2014-08-24,add,Mike Evans,draftpicks,MM
+2014-08-24,add,LaRon Landry,draftpicks,TP
+2014-08-24,add,Charles Johnson,draftpicks,DB
+2014-08-24,add,Donald Butler,draftpicks,MP
+2014-08-24,add,Stephen Tulloch,draftpicks,SC
+2014-08-24,add,Justin Smith,draftpicks,MW
+2014-08-24,add,Jairus Byrd,draftpicks,MW
+2014-08-24,add,Jurrell Casey,draftpicks,SC
+2014-08-24,add,Dwayne Allen,draftpicks,MP
+2014-08-24,add,Mark Ingram,draftpicks,DB
+2014-08-24,add,Nick Roach,draftpicks,TP
+2014-08-24,add,Thomas Davis,draftpicks,MM
+2014-08-24,add,Clay Matthews,draftpicks,JC
+2014-08-24,add,Mason Foster,draftpicks,CR
+2014-08-24,add,Alterraun Verner,draftpicks,TJ
+2014-08-24,add,Calvin Pryor,draftpicks,BT
+2014-08-24,add,Antonio Gates,draftpicks,BT
+2014-08-24,add,Kevin Minter,draftpicks,TJ
+2014-08-24,add,Anquan Boldin,draftpicks,CR
+2014-08-24,add,Alex Smith,draftpicks,JC
+2014-08-24,add,Jeremy Hill,draftpicks,MM
+2014-08-24,add,Cecil Shorts III,draftpicks,TP
+2014-08-24,add,DeAndre Hopkins,draftpicks,DB
+2014-08-24,add,Steven Hauschka,draftpicks,MP
+2014-08-24,add,Riley Cooper,draftpicks,SC
+2014-08-24,add,Phil Dawson,draftpicks,MW
+2014-08-24,add,Hakeem Nicks,draftpicks,MW
+2014-08-24,add,Mason Crosby,draftpicks,SC
+2014-08-24,add,Terrance West,draftpicks,MP
+2014-08-24,add,Lance Briggs,draftpicks,DB
+2014-08-24,add,Matt Bryant,draftpicks,TP
+2014-08-24,add,Marvin Jones,draftpicks,MM
+2014-08-24,add,Blair Walsh,draftpicks,JC
+2014-08-24,add,Ryan Clark,draftpicks,CR
+2014-08-24,add,Adam Vinatieri,draftpicks,TJ
+2014-08-24,add,Joe Haden,draftpicks,BT
+2014-08-24,drop,Tavon Austin,JC,waivers
+2014-08-27,drop,Justin Smith,MW,waivers
+2014-08-27,add,Sheldon Richardson,waivers,MW
+2014-08-27,drop,DeAndre Hopkins,DB,waivers
+2014-08-27,add,Dan Bailey,waivers,DB
+2014-08-27,drop,NaVorro Bowman,MW,waivers
+2014-08-27,add,DeAndre Levy,waivers,MW
+2014-08-27,drop,Charles Johnson,DB,waivers
+2014-08-27,add,Gerald McCoy,waivers,DB
+2014-08-27,drop,Hakeem Nicks,MW,waivers
+2014-08-27,add,Kelvin Benjamin,waivers,MW
+2014-08-27,add,Tim Wright,freeagents,JC
+2014-08-27,drop,Heath Miller,MW,waivers
+2014-08-27,add,Josh Gordon,freeagents,MW
+2014-08-27,drop,Robert Mathis,MP,waivers
+2014-08-27,add,Geno Atkins,freeagents,MP
+2014-08-27,drop,Dwayne Allen,MP,waivers
+2014-08-27,add,Tamba Hali,freeagents,MP
+2014-08-27,drop,Josh Gordon,MW,waivers
+2014-08-27,add,Charles Woodson,freeagents,MW
+2014-08-27,drop,Matt Prater,DB,waivers
+2014-08-27,add,Brandin Cooks,freeagents,DB
+2014-08-30,drop,Terrance West,MP,waivers
+2014-08-30,add,Benny Cunningham,freeagents,MP
+2014-09-01,drop,Kevin Minter,TJ,waivers
+2014-09-01,add,Barkevious Mingo,freeagents,TJ
+2014-09-02,drop,Malcolm Jenkins,TJ,waivers
+2014-09-02,add,William Moore,freeagents,TJ
+2014-09-02,drop,Leodis McKelvin,SC,waivers
+2014-09-02,add,D.J. Swearinger,freeagents,SC
+2014-09-03,drop,Bobby Wagner,CR,waivers
+2014-09-03,add,Andy Mulumba,freeagents,CR
+2014-09-04,drop,Danny Trevathan,MM,waivers
+2014-09-04,add,Louis Delmas,freeagents,MM
+2014-09-05,drop,Steve Smith Sr.,MW,waivers
+2014-09-05,add,LaMarr Woodley,freeagents,MW
+2014-09-05,drop,Cecil Shorts III,TP,waivers
+2014-09-05,add,Jonathan Dwyer,freeagents,TP
+2014-09-05,drop,Andy Mulumba,CR,waivers
+2014-09-05,add,Bobby Wagner,freeagents,CR
+2014-09-07,drop,Antonio Gates,BT,waivers
+2014-09-07,add,Josh Gordon,freeagents,BT
+2014-09-10,drop,Marcell Dareus,BT,waivers
+2014-09-10,add,Everson Griffen,waivers,BT
+2014-09-10,drop,Ezekiel Ansah,MP,waivers
+2014-09-10,add,Justin Smith,waivers,MP
+2014-09-10,drop,Ray Rice,MM,waivers
+2014-09-10,add,Justin Forsett,waivers,MM
+2014-09-10,drop,Chris Long,JC,waivers
+2014-09-10,add,Derrick Morgan,waivers,JC
+2014-09-10,drop,LaMarr Woodley,MW,waivers
+2014-09-10,add,Leodis McKelvin,waivers,MW
+2014-09-10,drop,Zach Brown,TJ,waivers
+2014-09-10,add,Nate Irving,waivers,TJ
+2014-09-10,drop,Joe Haden,BT,waivers
+2014-09-10,add,Ha Ha Clinton-Dix,waivers,BT
+2014-09-10,drop,Geno Atkins,MP,waivers
+2014-09-10,add,Eric Reid,waivers,MP
+2014-09-10,drop,Derrick Johnson,MM,waivers
+2014-09-10,add,Greg Jennings,waivers,MM
+2014-09-10,drop,Jordan Reed,MW,waivers
+2014-09-10,add,Travis Kelce,waivers,MW
+2014-09-10,drop,Tamba Hali,MP,waivers
+2014-09-10,add,Sio Moore,waivers,MP
+2014-09-10,drop,Sheldon Richardson,MW,waivers
+2014-09-10,add,Jason Hatcher,waivers,MW
+2014-09-10,drop,Benny Cunningham,MP,waivers
+2014-09-10,add,Shonn Greene,waivers,MP
+2014-09-10,drop,Darren McFadden,JC,waivers
+2014-09-10,add,Markus Wheaton,freeagents,JC
+2014-09-10,drop,Patrick Peterson,MP,waivers
+2014-09-10,add,Malcolm Jenkins,freeagents,MP
+2014-09-10,drop,Donald Butler,MP,waivers
+2014-09-10,add,Terrance West,freeagents,MP
+2014-09-11,drop,Marvin Jones,MM,waivers
+2014-09-11,add,Danny Trevathan,freeagents,MM
+2014-09-11,drop,Lance Briggs,DB,waivers
+2014-09-11,add,A.J. Hawk,freeagents,DB
+2014-09-12,drop,Malcolm Jenkins,MP,waivers
+2014-09-12,add,Ahmad Bradshaw,freeagents,MP
+2014-09-12,drop,Ladarius Green,CR,waivers
+2014-09-12,add,Matt Asiata,freeagents,CR
+2014-09-12,drop,Tim Wright,JC,waivers
+2014-09-12,add,Chris Ivory,freeagents,JC
+2014-09-14,trade,Brian Cushing,BT,MP
+2014-09-14,trade,Calvin Pryor,BT,MP
+2014-09-14,trade,Sio Moore,MP,BT
+2014-09-14,trade,Shonn Greene,MP,BT
+2014-09-14,drop,Alterraun Verner,TJ,waivers
+2014-09-14,add,K.J. Wright,freeagents,TJ
+2014-09-17,drop,Ha Ha Clinton-Dix,BT,waivers
+2014-09-17,add,Knile Davis,waivers,BT
+2014-09-17,drop,Louis Delmas,MM,waivers
+2014-09-17,add,Antoine Cason,waivers,MM
+2014-09-17,drop,Carlos Hyde,MP,waivers
+2014-09-17,add,Antonio Gates,waivers,MP
+2014-09-17,drop,Jairus Byrd,MW,waivers
+2014-09-17,add,Delanie Walker,waivers,MW
+2014-09-17,drop,Jadeveon Clowney,JC,waivers
+2014-09-17,add,Kyle Fuller,waivers,JC
+2014-09-17,drop,A.J. Hawk,DB,waivers
+2014-09-17,add,Willie Young,waivers,DB
+2014-09-17,drop,Ben Tate,BT,waivers
+2014-09-17,add,Kirk Cousins,waivers,BT
+2014-09-17,drop,Stevie Brown,MM,waivers
+2014-09-17,add,Dashon Goldson,waivers,MM
+2014-09-17,drop,Eric Reid,MP,waivers
+2014-09-17,add,Michael Bennett,freeagents,MP
+2014-09-17,add,Fletcher Cox,freeagents,MM
+2014-09-17,drop,Jason Witten,MM,waivers
+2014-09-17,add,Larry Donnell,freeagents,MM
+2014-09-17,drop,Alex Smith,JC,waivers
+2014-09-17,add,Jordan Reed,freeagents,JC
+2014-09-17,drop,Ryan Mathews,CR,waivers
+2014-09-17,add,Zaviar Gooden,freeagents,CR
+2014-09-17,drop,Jared Allen,BT,waivers
+2014-09-17,add,Da'Norris Searcy,freeagents,BT
+2014-09-17,drop,Jarrett Boykin,TJ,waivers
+2014-09-17,add,Terence Newman,freeagents,TJ
+2014-09-18,drop,Justin Smith,MP,waivers
+2014-09-18,add,Bobby Rainey,freeagents,MP
+2014-09-18,drop,Vontaze Burfict,DB,waivers
+2014-09-18,add,Brandon Marshall,freeagents,DB
+2014-09-18,drop,Barkevious Mingo,TJ,waivers
+2014-09-18,add,Keenan Robinson,freeagents,TJ
+2014-09-20,trade,Calais Campbell,DB,BT
+2014-09-20,trade,Knile Davis,BT,DB
+2014-09-20,drop,Robert Griffin III,DB,waivers
+2014-09-20,add,Preston Brown,freeagents,DB
+2014-09-21,drop,Sio Moore,BT,waivers
+2014-09-21,add,Vontaze Burfict,waivers,BT
+2014-09-21,drop,Kirk Cousins,BT,waivers
+2014-09-21,add,Niles Paul,freeagents,BT
+2014-09-23,drop,Tyvon Branch,DB,waivers
+2014-09-24,drop,Niles Paul,BT,waivers
+2014-09-24,add,Lorenzo Taliaferro,waivers,BT
+2014-09-24,drop,Maurice Jones-Drew,MM,waivers
+2014-09-24,add,Donald Brown,waivers,MM
+2014-09-24,drop,Michael Bennett,MP,waivers
+2014-09-24,add,Tamba Hali,waivers,MP
+2014-09-24,add,Jelani Jenkins,waivers,TJ
+2014-09-24,drop,Josh McCown,MW,waivers
+2014-09-24,add,Dominique Rodgers-Cromartie,waivers,MW
+2014-09-24,drop,Dwayne Bowe,JC,waivers
+2014-09-24,add,Sheldon Richardson,waivers,JC
+2014-09-24,add,Aaron Williams,waivers,DB
+2014-09-24,drop,Michael Johnson,BT,waivers
+2014-09-24,add,Mario Addison,waivers,BT
+2014-09-24,drop,Charles Clay,MM,waivers
+2014-09-24,add,Steve Smith Sr.,waivers,MM
+2014-09-24,drop,Antonio Gates,MP,waivers
+2014-09-24,add,Alterraun Verner,waivers,MP
+2014-09-24,drop,Chris Johnson,MW,waivers
+2014-09-24,add,Corey Liuget,waivers,MW
+2014-09-24,drop,Dennis Pitta,JC,waivers
+2014-09-24,add,Jason Witten,waivers,JC
+2014-09-24,drop,Thomas Davis,MM,waivers
+2014-09-24,add,Demario Davis,waivers,MM
+2014-09-24,drop,Steven Hauschka,MP,waivers
+2014-09-24,add,Shaun Suisham,waivers,MP
+2014-09-24,drop,DeAngelo Hall,JC,waivers
+2014-09-24,add,Kirk Cousins,waivers,JC
+2014-09-24,drop,Greg Hardy,MM,waivers
+2014-09-24,add,Reggie Nelson,waivers,MM
+2014-09-24,drop,Bernard Pierce,JC,waivers
+2014-09-24,add,Ryan Kerrigan,waivers,JC
+2014-09-24,drop,Larry Fitzgerald,DB,waivers
+2014-09-24,add,Tahir Whitehead,freeagents,DB
+2014-09-24,drop,Roman Harper,DB,waivers
+2014-09-24,add,David Amerson,freeagents,DB
+2014-09-24,drop,Jordan Reed,JC,waivers
+2014-09-24,add,Antonio Allen,freeagents,JC
+2014-09-24,drop,Terrance West,MP,waivers
+2014-09-24,add,Sen'Derrick Marks,freeagents,MP
+2014-09-24,drop,Phil Dawson,MW,waivers
+2014-09-24,add,Cody Parkey,freeagents,MW
+2014-09-24,drop,Terence Newman,TJ,waivers
+2014-09-24,add,Corey Graham,freeagents,TJ
+2014-09-24,drop,Jerrell Freeman,TJ,waivers
+2014-09-24,add,Anthony Hitchens,freeagents,TJ
+2014-09-24,add,Khiry Robinson,freeagents,SC
+2014-09-24,drop,Mason Foster,CR,waivers
+2014-09-24,add,Devin McCourty,freeagents,CR
+2014-09-24,drop,Ryan Clark,CR,waivers
+2014-09-24,add,Malcolm Jenkins,freeagents,CR
+2014-09-24,drop,Anquan Boldin,CR,waivers
+2014-09-24,add,Bruce Carter,freeagents,CR
+2014-09-24,drop,Jonathan Dwyer,TP,waivers
+2014-09-24,add,DeAndre Hopkins,freeagents,TP
+2014-09-24,drop,Sen'Derrick Marks,MP,waivers
+2014-09-24,add,DeAngelo Williams,freeagents,MP
+2014-09-25,drop,Chad Greenway,BT,waivers
+2014-09-25,add,Anthony Barr,freeagents,BT
+2014-09-27,trade,Mark Ingram,DB,MW
+2014-09-27,trade,Darren Sproles,MW,DB
+2014-09-27,trade,Kendall Wright,MP,TP
+2014-09-27,trade,Justin Tuck,TP,MP
+2014-09-27,drop,Johnny Manziel,CR,waivers
+2014-09-27,add,Antonio Gates,waivers,CR
+2014-09-28,drop,Da'Norris Searcy,BT,waivers
+2014-09-28,add,Kendrick Lewis,freeagents,BT
+2014-09-28,drop,Kyle Rudolph,TP,waivers
+2014-09-28,add,Tony Jefferson,freeagents,TP
+2014-09-30,drop,Danny Woodhead,TJ,waivers
+2014-10-01,drop,Ryan Shazier,DB,waivers
+2014-10-01,add,Trumaine McBride,freeagents,DB
+2014-10-01,drop,Shonn Greene,BT,waivers
+2014-10-01,add,Ben Tate,waivers,BT
+2014-10-01,drop,DeAngelo Williams,MP,waivers
+2014-10-01,add,Michael Johnson,waivers,MP
+2014-10-01,drop,Mike Evans,MM,waivers
+2014-10-01,add,Eddie Royal,waivers,MM
+2014-10-01,add,Patrick Peterson,waivers,TJ
+2014-10-01,drop,Kirk Cousins,JC,waivers
+2014-10-01,add,Jerick McKinnon,waivers,JC
+2014-10-01,drop,Bruce Carter,CR,waivers
+2014-10-01,add,Anquan Boldin,waivers,CR
+2014-10-01,drop,LaRon Landry,TP,waivers
+2014-10-01,add,Marcell Dareus,waivers,TP
+2014-10-01,drop,Mario Addison,BT,waivers
+2014-10-01,add,Michael Bennett,waivers,BT
+2014-10-01,drop,Bobby Rainey,MP,waivers
+2014-10-01,add,Heath Miller,waivers,MP
+2014-10-01,drop,Derrick Morgan,JC,waivers
+2014-10-01,add,Dwayne Allen,waivers,JC
+2014-10-01,drop,Tom Brady,BT,waivers
+2014-10-01,add,Eli Manning,waivers,BT
+2014-10-01,drop,Shaun Suisham,MP,waivers
+2014-10-01,add,Phil Dawson,waivers,MP
+2014-10-01,drop,Alterraun Verner,MP,waivers
+2014-10-01,add,Dawan Landry,waivers,MP
+2014-10-01,drop,Antonio Allen,JC,waivers
+2014-10-01,add,Jordan Reed,freeagents,JC
+2014-10-01,drop,Jason Hatcher,MW,waivers
+2014-10-01,add,Roy Helu Jr.,freeagents,MW
+2014-10-01,drop,Nick Roach,TP,waivers
+2014-10-01,add,A.J. Hawk,freeagents,TP
+2014-10-01,drop,Phil Dawson,MP,waivers
+2014-10-01,add,Nick Novak,freeagents,MP
+2014-10-02,drop,Corey Liuget,MW,waivers
+2014-10-02,add,Cameron Heyward,freeagents,MW
+2014-10-02,drop,Dashon Goldson,MM,waivers
+2014-10-02,add,Johnathan Joseph,freeagents,MM
+2014-10-03,drop,Dominique Rodgers-Cromartie,MW,waivers
+2014-10-03,add,Kirk Cousins,waivers,MW
+2014-10-04,trade,Antoine Bethea,BT,TJ
+2014-10-04,trade,Nick Foles,BT,TJ
+2014-10-04,trade,Philip Rivers,TJ,BT
+2014-10-04,drop,Anthony Hitchens,TJ,waivers
+2014-10-04,add,Ryan Mundy,freeagents,BT
+2014-10-04,drop,Anthony Barr,BT,waivers
+2014-10-04,add,Larry Foote,freeagents,BT
+2014-10-04,drop,Eli Manning,BT,waivers
+2014-10-04,add,Jared Cook,freeagents,BT
+2014-10-07,drop,Bernard Pollard,JC,waivers
+2014-10-08,drop,Lorenzo Taliaferro,BT,waivers
+2014-10-08,add,Andre Williams,waivers,BT
+2014-10-08,drop,Tamba Hali,MP,waivers
+2014-10-08,add,Branden Oliver,waivers,MP
+2014-10-08,drop,Jelani Jenkins,TJ,waivers
+2014-10-08,add,Ronnie Hillman,waivers,TJ
+2014-10-08,drop,Cameron Heyward,MW,waivers
+2014-10-08,add,Justin Smith,waivers,MW
+2014-10-08,drop,Aaron Williams,DB,waivers
+2014-10-08,add,Perrish Cox,waivers,DB
+2014-10-08,drop,Anquan Boldin,CR,waivers
+2014-10-08,add,Tom Brady,waivers,CR
+2014-10-08,drop,Doug Martin,BT,waivers
+2014-10-08,add,Cortez Allen,waivers,BT
+2014-10-08,drop,Nick Novak,MP,waivers
+2014-10-08,add,Benny Cunningham,waivers,MP
+2014-10-08,drop,David Amerson,DB,waivers
+2014-10-08,add,Chris Harris Jr.,waivers,DB
+2014-10-08,drop,Tyrann Mathieu,MW,waivers
+2014-10-08,add,George Winn,freeagents,MW
+2014-10-08,add,Tramon Williams,freeagents,JC
+2014-10-08,drop,Jason Witten,JC,waivers
+2014-10-08,add,Brian Quick,freeagents,JC
+2014-10-08,drop,Brandon Marshall,DB,waivers
+2014-10-08,add,Mohamed Sanu,freeagents,DB
+2014-10-09,drop,Adrian Peterson,JC,waivers
+2014-10-09,add,Odell Beckham Jr.,freeagents,JC
+2014-10-09,drop,Reshad Jones,SC,waivers
+2014-10-09,add,Jerrell Freeman,freeagents,SC
+2014-10-10,drop,Riley Cooper,SC,waivers
+2014-10-10,add,Brandon Marshall,waivers,SC
+2014-10-10,drop,Darren Sproles,DB,waivers
+2014-10-10,add,Jason Witten,waivers,DB
+2014-10-10,drop,Cody Parkey,MW,waivers
+2014-10-10,add,Nick Novak,freeagents,MW
+2014-10-10,drop,George Winn,MW,waivers
+2014-10-10,add,Michael Griffin,freeagents,MW
+2014-10-11,drop,Benny Cunningham,MP,waivers
+2014-10-11,add,Matt Prater,freeagents,MP
+2014-10-12,trade,Kelvin Benjamin,MW,MP
+2014-10-12,trade,Shane Vereen,MP,MW
+2014-10-12,drop,Knowshon Moreno,SC,waivers
+2014-10-12,add,Justin Durant,freeagents,SC
+2014-10-15,drop,Matt Asiata,CR,waivers
+2014-10-15,add,Larry Fitzgerald,freeagents,CR
+2014-10-15,trade,Round 10,DB,BT
+2014-10-15,trade,Round 18,BT,DB
+2014-10-15,trade,C.J. Spiller,DB,BT
+2014-10-15,trade,LeSean McCoy,BT,DB
+2014-10-15,drop,Larry Foote,BT,waivers
+2014-10-15,add,Jadeveon Clowney,waivers,BT
+2014-10-15,drop,Michael Johnson,MP,waivers
+2014-10-15,add,Jelani Jenkins,waivers,MP
+2014-10-15,drop,Donte Whitner,MW,waivers
+2014-10-15,add,Rashad Johnson,waivers,MW
+2014-10-15,drop,Eric Berry,TJ,waivers
+2014-10-15,add,Reshad Jones,waivers,TJ
+2014-10-15,drop,Preston Brown,DB,waivers
+2014-10-15,add,Bjoern Werner,waivers,DB
+2014-10-15,drop,Zaviar Gooden,CR,waivers
+2014-10-15,add,Arthur Brown,waivers,CR
+2014-10-15,drop,Jerod Mayo,BT,waivers
+2014-10-15,add,Emmanuel Lamur,waivers,BT
+2014-10-15,drop,Calvin Pryor,MP,waivers
+2014-10-15,add,Ezekiel Ansah,waivers,MP
+2014-10-15,drop,Michael Griffin,MW,waivers
+2014-10-15,add,Jerry Hughes,waivers,MW
+2014-10-15,drop,Kirk Cousins,MW,waivers
+2014-10-15,add,Joe Flacco,waivers,MW
+2014-10-15,drop,Travis Kelce,MW,waivers
+2014-10-15,add,Darren Sproles,waivers,MW
+2014-10-15,drop,Justin Smith,MW,waivers
+2014-10-15,add,Troy Polamalu,freeagents,MW
+2014-10-15,drop,Heath Miller,MP,waivers
+2014-10-15,add,Jace Amaro,freeagents,MP
+2014-10-15,drop,Ryan Mundy,BT,waivers
+2014-10-15,add,Brandon Meriweather,freeagents,BT
+2014-10-16,add,Brandon Flowers,freeagents,DB
+2014-10-16,drop,Charles Tillman,MM,waivers
+2014-10-16,add,Stephen Paea,freeagents,MM
+2014-10-16,drop,Donald Brown,MM,waivers
+2014-10-16,add,Jonathan Stewart,freeagents,MM
+2014-10-16,drop,Montee Ball,MM,waivers
+2014-10-16,add,Antone Smith,freeagents,MM
+2014-10-16,drop,Wesley Woodyard,MM,waivers
+2014-10-16,add,Donald Butler,freeagents,MM
+2014-10-16,drop,Greg Jennings,MM,waivers
+2014-10-16,add,Andre Holmes,freeagents,MM
+2014-10-17,drop,DeMeco Ryans,BT,waivers
+2014-10-17,add,Rolando McClain,freeagents,BT
+2014-10-17,drop,Cortez Allen,BT,waivers
+2014-10-17,add,Jason McCourty,freeagents,BT
+2014-10-19,add,Malcom Floyd,freeagents,JC
+2014-10-19,drop,Tramon Williams,JC,waivers
+2014-10-19,add,Michael Griffin,freeagents,JC
+2014-10-19,drop,Brandon Flowers,DB,waivers
+2014-10-19,add,Alterraun Verner,freeagents,DB

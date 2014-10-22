@@ -16,6 +16,17 @@ actually are IRL. That's what [Google](https://www.google.com) is for.
 
 ## Data Overview
 
+We had some trouble with the Yahoo API, so we're using YQL queries to
+gather the data as JSON and manually update it in the repo for scripts to
+use, including those that convert it to CSVs for non-programmers.
+
+If you're updating the JSON, please remember to **turn off the Diagnostics
+and Debug options**. You can then click the "Select All" link to copy the
+JSON and then right click to copy it.
+
+Before checking in your changes, you should also run some scripts against
+the JSON and CSV data to compare them to what's shown on Yahoo.
+
 ### Scoring
 
 A scoring table that matches what's in the wiki, in CSV format for your
@@ -41,6 +52,10 @@ how many points a team scored in a week.
 
 A list of all player transactions that occur during the season, from Draft Day
 until the Super Bowl.
+
+[YQL Query](http://developer.yahoo.com/yql/console/?q=select%20*%20from%20fantasysports.leagues.transactions%20where%20league_key%3D'331.l.246998'):
+
+    select * from fantasysports.leagues.transactions where league_key='331.l.246998'
 
 ## Data Format
 
