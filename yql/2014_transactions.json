@@ -1,7 +1,7 @@
 {
  "query": {
   "count": 1,
-  "created": "2014-10-22T19:34:05Z",
+  "created": "2014-10-24T07:47:01Z",
   "lang": "en-US",
   "results": {
    "league": {
@@ -10,12 +10,11 @@
     "name": "#FFLegacy2014",
     "url": "http://football.fantasysports.yahoo.com/f1/246998",
     "password": null,
-    "league_chat_id": "da93l11xqp0phxiu556eppz86548qt0",
     "draft_status": "postdraft",
     "num_teams": "10",
     "edit_key": "8",
     "weekly_deadline": null,
-    "league_update_timestamp": "1413877115",
+    "league_update_timestamp": "1414052837",
     "scoring_type": "head",
     "league_type": "private",
     "renew": null,
@@ -28,8 +27,201 @@
     "end_week": "16",
     "end_date": "2014-12-22",
     "transactions": {
-     "count": "322",
+     "count": "326",
      "transaction": [
+      {
+       "transaction_key": "331.l.246998.tr.388",
+       "transaction_id": "388",
+       "type": "add",
+       "status": "successful",
+       "timestamp": "1414126417",
+       "players": {
+        "count": "1",
+        "player": {
+         "player_key": "331.p.24915",
+         "player_id": "24915",
+         "name": {
+          "full": "Cortez Allen",
+          "first": "Cortez",
+          "last": "Allen",
+          "ascii_first": "Cortez",
+          "ascii_last": "Allen"
+         },
+         "editorial_team_abbr": "Pit",
+         "display_position": "DB",
+         "position_type": "DP",
+         "transaction_data": {
+          "type": "add",
+          "source_type": "freeagents",
+          "destination_type": "team",
+          "destination_team_key": "331.l.246998.t.2",
+          "destination_team_name": "Stamping Mushrooms"
+         }
+        }
+       }
+      },
+      {
+       "transaction_key": "331.l.246998.tr.387",
+       "transaction_id": "387",
+       "type": "add/drop",
+       "status": "successful",
+       "timestamp": "1414076763",
+       "players": {
+        "count": "2",
+        "player": [
+         {
+          "player_key": "331.p.25105",
+          "player_id": "25105",
+          "name": {
+           "full": "Doug Baldwin",
+           "first": "Doug",
+           "last": "Baldwin",
+           "ascii_first": "Doug",
+           "ascii_last": "Baldwin"
+          },
+          "editorial_team_abbr": "Sea",
+          "display_position": "WR",
+          "position_type": "O",
+          "transaction_data": {
+           "type": "add",
+           "source_type": "freeagents",
+           "destination_type": "team",
+           "destination_team_key": "331.l.246998.t.6",
+           "destination_team_name": "The Infinite Watts"
+          }
+         },
+         {
+          "player_key": "331.p.27583",
+          "player_id": "27583",
+          "name": {
+           "full": "Jeremy Hill",
+           "first": "Jeremy",
+           "last": "Hill",
+           "ascii_first": "Jeremy",
+           "ascii_last": "Hill"
+          },
+          "editorial_team_abbr": "Cin",
+          "display_position": "RB",
+          "position_type": "O",
+          "transaction_data": {
+           "type": "drop",
+           "source_type": "team",
+           "source_team_key": "331.l.246998.t.6",
+           "source_team_name": "The Infinite Watts",
+           "destination_type": "waivers"
+          }
+         }
+        ]
+       }
+      },
+      {
+       "transaction_key": "331.l.246998.tr.386",
+       "transaction_id": "386",
+       "type": "add/drop",
+       "status": "successful",
+       "timestamp": "1414075459",
+       "players": {
+        "count": "2",
+        "player": [
+         {
+          "player_key": "331.p.9072",
+          "player_id": "9072",
+          "name": {
+           "full": "Wesley Woodyard",
+           "first": "Wesley",
+           "last": "Woodyard",
+           "ascii_first": "Wesley",
+           "ascii_last": "Woodyard"
+          },
+          "editorial_team_abbr": "Ten",
+          "display_position": "LB",
+          "position_type": "DP",
+          "transaction_data": {
+           "type": "add",
+           "source_type": "freeagents",
+           "destination_type": "team",
+           "destination_team_key": "331.l.246998.t.6",
+           "destination_team_name": "The Infinite Watts"
+          }
+         },
+         {
+          "player_key": "331.p.9707",
+          "player_id": "9707",
+          "name": {
+           "full": "Antone Smith",
+           "first": "Antone",
+           "last": "Smith",
+           "ascii_first": "Antone",
+           "ascii_last": "Smith"
+          },
+          "editorial_team_abbr": "Atl",
+          "display_position": "RB",
+          "position_type": "O",
+          "transaction_data": {
+           "type": "drop",
+           "source_type": "team",
+           "source_team_key": "331.l.246998.t.6",
+           "source_team_name": "The Infinite Watts",
+           "destination_type": "waivers"
+          }
+         }
+        ]
+       }
+      },
+      {
+       "transaction_key": "331.l.246998.tr.385",
+       "transaction_id": "385",
+       "type": "add/drop",
+       "status": "successful",
+       "timestamp": "1414074566",
+       "players": {
+        "count": "2",
+        "player": [
+         {
+          "player_key": "331.p.7847",
+          "player_id": "7847",
+          "name": {
+           "full": "Owen Daniels",
+           "first": "Owen",
+           "last": "Daniels",
+           "ascii_first": "Owen",
+           "ascii_last": "Daniels"
+          },
+          "editorial_team_abbr": "Bal",
+          "display_position": "TE",
+          "position_type": "O",
+          "transaction_data": {
+           "type": "add",
+           "source_type": "freeagents",
+           "destination_type": "team",
+           "destination_team_key": "331.l.246998.t.6",
+           "destination_team_name": "The Infinite Watts"
+          }
+         },
+         {
+          "player_key": "331.p.24840",
+          "player_id": "24840",
+          "name": {
+           "full": "Stephen Paea",
+           "first": "Stephen",
+           "last": "Paea",
+           "ascii_first": "Stephen",
+           "ascii_last": "Paea"
+          },
+          "editorial_team_abbr": "Chi",
+          "display_position": "DL",
+          "position_type": "DP",
+          "transaction_data": {
+           "type": "drop",
+           "source_type": "team",
+           "source_team_key": "331.l.246998.t.6",
+           "source_team_name": "The Infinite Watts",
+           "destination_type": "waivers"
+          }
+         }
+        ]
+       }
+      },
       {
        "transaction_key": "331.l.246998.tr.384",
        "transaction_id": "384",
@@ -205,10 +397,10 @@
           "player_key": "331.p.24149",
           "player_id": "24149",
           "name": {
-           "full": "Anthony Dixon",
-           "first": "Anthony",
+           "full": "Boobie Dixon",
+           "first": "Boobie",
            "last": "Dixon",
-           "ascii_first": "Anthony",
+           "ascii_first": "Boobie",
            "ascii_last": "Dixon"
           },
           "editorial_team_abbr": "Buf",
