@@ -67,9 +67,9 @@ until the Super Bowl.
 ## Data Format
 
 Data is kept in a CSV format so it can be used by everyone, including those who
-think writing code is for nerds. CSVs are prepended with the season year they
-are for, and are currently kept in the `seasons` directory. If there ends up
-being data that is not season-specific, we can find another directory for it.
+think writing code is for nerds. CSVs are kept in the `seasons` directory and
+organized further by week if necessary. If there ends up being data that is not
+season-specific, we can find another directory for it.
 
 Raw JSON data will be kept in the `yql` directory. Any scripts that are written
 will be kept in the `scripts` directory. If you'd like to contribute, make

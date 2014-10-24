@@ -21,9 +21,10 @@ def scrub_personal
   end
 end
 
-def populate_stats(week_id)
-  files = Dir[File.expand_path("../../yql/weekly/*_#{week_id}.json", __FILE__)]
-  # files = [File.expand_path("../../yql/weekly/1_#{week_id}.json", __FILE__)] # NOTE for testing
+def generate_stats(year, week)
+  stats_filename = File.expand_path("../../seasons/2014/weeks/#{week}/stats.csv", __FILE__)
+  files = Dir[File.expand_path("../../yql/weekly/*_#{week}.json", __FILE__)]
+  # files = [File.expand_path("../../yql/weekly/1_#{week}.json", __FILE__)] # NOTE for testing
 
   # order of the stats in the 2014_stats.csv, from left to right
   stat_mappings = [
@@ -61,6 +62,8 @@ def populate_stats(week_id)
   # 8 - Rushing Attempts
   # 78 - Targeted
 
+  player_rows = []
+
   files.each do |filename|
     puts "Reading #{filename}..."
     json = {}
@@ -70,10 +73,11 @@ def populate_stats(week_id)
     end
 
     # owner_id = json['managers']['manager']['manager_id']
-    week = json['roster']['week']
+    if week.to_s != json['roster']['week']
+      raise "#{filename} data may not be for Week #{week}"
+    end
 
     players = json['roster']['players']['player']
-    player_rows = []
 
     players.each do |p|
       name = p['name']['full']
@@ -87,14 +91,16 @@ def populate_stats(week_id)
       stat_mappings.each { |i| row += ",#{stats_hash[i.to_s]}" }
       player_rows << row
     end
+  end
 
-    File.open(File.expand_path("../../seasons/2014_stats.csv", __FILE__), 'a') do |file|
-      file.puts player_rows
-    end
+  File.open(stats_filename, 'w') do |file|
+    file.puts "PID,Player,Week,Passing TD,Interceptions,1 Passing Yd,Rushing TD,1 Rushing Yd,Reception TD,Receptions,1 Reception Yd,Return TD,2-pt Conversion,Fumbles Lost,Offensive Fumble Return TD,FG 0-19 Yds,FG 20-29 Yds,FG 30-39 Yds,FG 40-49 Yds,FG 50+ Yds,PAT,Tackle Solo,Tackle Assist,Sack,Interception,Fumble Force,Fumble Recovery,Defensive TD,Safety,Pass Defended,Block Kick,Tackles For Loss"
+    file.puts player_rows
   end
 
   puts "Done."
 end
 
-# Execute definitions, pass in week number
-# populate_stats(1)
+# Execute definitions, pass in year, week
+# scrub_personal # TODO specify week as argument
+# generate_stats(2014, 1)
