@@ -1,7 +1,7 @@
 {
  "query": {
   "count": 1,
-  "created": "2014-10-24T07:47:01Z",
+  "created": "2014-10-28T19:12:48Z",
   "lang": "en-US",
   "results": {
    "league": {
@@ -10,25 +10,567 @@
     "name": "#FFLegacy2014",
     "url": "http://football.fantasysports.yahoo.com/f1/246998",
     "password": null,
+    "league_chat_id": "da93l11xqp0phxiu556eppz86548qt0",
     "draft_status": "postdraft",
     "num_teams": "10",
-    "edit_key": "8",
+    "edit_key": "9",
     "weekly_deadline": null,
-    "league_update_timestamp": "1414052837",
+    "league_update_timestamp": "1414483939",
     "scoring_type": "head",
     "league_type": "private",
     "renew": null,
     "renewed": null,
     "short_invitation_url": "https://yho.com/nfl?l=246998&k=0f1c50d395e7b9e5",
     "is_pro_league": "0",
-    "current_week": "8",
+    "current_week": "9",
     "start_week": "1",
     "start_date": "2014-09-04",
     "end_week": "16",
     "end_date": "2014-12-22",
     "transactions": {
-     "count": "326",
+     "count": "335",
      "transaction": [
+      {
+       "transaction_key": "331.l.246998.tr.397",
+       "transaction_id": "397",
+       "type": "drop",
+       "status": "successful",
+       "timestamp": "1414500190",
+       "players": {
+        "count": "1",
+        "player": {
+         "player_key": "331.p.24019",
+         "player_id": "24019",
+         "name": {
+          "full": "Lamarr Houston",
+          "first": "Lamarr",
+          "last": "Houston",
+          "ascii_first": "Lamarr",
+          "ascii_last": "Houston"
+         },
+         "editorial_team_abbr": "Chi",
+         "display_position": "DL",
+         "position_type": "DP",
+         "transaction_data": {
+          "type": "drop",
+          "source_type": "team",
+          "source_team_key": "331.l.246998.t.5",
+          "source_team_name": "Edward Forte Hands",
+          "destination_type": "waivers"
+         }
+        }
+       }
+      },
+      {
+       "transaction_key": "331.l.246998.tr.396",
+       "transaction_id": "396",
+       "type": "trade",
+       "status": "successful",
+       "timestamp": "1414492176",
+       "trader_team_key": "331.l.246998.t.5",
+       "trader_team_name": "Edward Forte Hands",
+       "tradee_team_key": "331.l.246998.t.4",
+       "tradee_team_name": "Landry's ScroteSquad",
+       "picks": {
+        "pick": [
+         {
+          "source_team_key": "331.l.246998.t.5",
+          "source_team_name": "Edward Forte Hands",
+          "destination_team_key": "331.l.246998.t.4",
+          "destination_team_name": "Landry's ScroteSquad",
+          "original_team_key": "331.l.246998.t.5",
+          "original_team_name": "Edward Forte Hands",
+          "round": "5"
+         },
+         {
+          "source_team_key": "331.l.246998.t.5",
+          "source_team_name": "Edward Forte Hands",
+          "destination_team_key": "331.l.246998.t.4",
+          "destination_team_name": "Landry's ScroteSquad",
+          "original_team_key": "331.l.246998.t.5",
+          "original_team_name": "Edward Forte Hands",
+          "round": "10"
+         },
+         {
+          "source_team_key": "331.l.246998.t.4",
+          "source_team_name": "Landry's ScroteSquad",
+          "destination_team_key": "331.l.246998.t.5",
+          "destination_team_name": "Edward Forte Hands",
+          "original_team_key": "331.l.246998.t.4",
+          "original_team_name": "Landry's ScroteSquad",
+          "round": "9"
+         },
+         {
+          "source_team_key": "331.l.246998.t.4",
+          "source_team_name": "Landry's ScroteSquad",
+          "destination_team_key": "331.l.246998.t.5",
+          "destination_team_name": "Edward Forte Hands",
+          "original_team_key": "331.l.246998.t.4",
+          "original_team_name": "Landry's ScroteSquad",
+          "round": "11"
+         }
+        ]
+       },
+       "players": {
+        "count": "3",
+        "player": [
+         {
+          "player_key": "331.p.25731",
+          "player_id": "25731",
+          "name": {
+           "full": "Chandler Jones",
+           "first": "Chandler",
+           "last": "Jones",
+           "ascii_first": "Chandler",
+           "ascii_last": "Jones"
+          },
+          "editorial_team_abbr": "NE",
+          "display_position": "DL",
+          "position_type": "DP",
+          "transaction_data": {
+           "type": "trade",
+           "source_type": "team",
+           "source_team_key": "331.l.246998.t.5",
+           "source_team_name": "Edward Forte Hands",
+           "destination_type": "team",
+           "destination_team_key": "331.l.246998.t.4",
+           "destination_team_name": "Landry's ScroteSquad"
+          }
+         },
+         {
+          "player_key": "331.p.26628",
+          "player_id": "26628",
+          "name": {
+           "full": "Ezekiel Ansah",
+           "first": "Ezekiel",
+           "last": "Ansah",
+           "ascii_first": "Ezekiel",
+           "ascii_last": "Ansah"
+          },
+          "editorial_team_abbr": "Det",
+          "display_position": "DL",
+          "position_type": "DP",
+          "transaction_data": {
+           "type": "trade",
+           "source_type": "team",
+           "source_team_key": "331.l.246998.t.4",
+           "source_team_name": "Landry's ScroteSquad",
+           "destination_type": "team",
+           "destination_team_key": "331.l.246998.t.5",
+           "destination_team_name": "Edward Forte Hands"
+          }
+         },
+         {
+          "player_key": "331.p.8256",
+          "player_id": "8256",
+          "name": {
+           "full": "Calvin Johnson",
+           "first": "Calvin",
+           "last": "Johnson",
+           "ascii_first": "Calvin",
+           "ascii_last": "Johnson"
+          },
+          "editorial_team_abbr": "Det",
+          "display_position": "WR",
+          "position_type": "O",
+          "transaction_data": {
+           "type": "trade",
+           "source_type": "team",
+           "source_team_key": "331.l.246998.t.4",
+           "source_team_name": "Landry's ScroteSquad",
+           "destination_type": "team",
+           "destination_team_key": "331.l.246998.t.5",
+           "destination_team_name": "Edward Forte Hands"
+          }
+         }
+        ]
+       }
+      },
+      {
+       "transaction_key": "331.l.246998.tr.395",
+       "transaction_id": "395",
+       "type": "add/drop",
+       "status": "successful",
+       "timestamp": "1414334833",
+       "players": {
+        "count": "2",
+        "player": [
+         {
+          "player_key": "331.p.7190",
+          "player_id": "7190",
+          "name": {
+           "full": "Thomas Davis",
+           "first": "Thomas",
+           "last": "Davis",
+           "ascii_first": "Thomas",
+           "ascii_last": "Davis"
+          },
+          "editorial_team_abbr": "Car",
+          "display_position": "LB",
+          "position_type": "DP",
+          "transaction_data": {
+           "type": "add",
+           "source_type": "freeagents",
+           "destination_type": "team",
+           "destination_team_key": "331.l.246998.t.4",
+           "destination_team_name": "Landry's ScroteSquad"
+          }
+         },
+         {
+          "player_key": "331.p.26758",
+          "player_id": "26758",
+          "name": {
+           "full": "Denard Robinson",
+           "first": "Denard",
+           "last": "Robinson",
+           "ascii_first": "Denard",
+           "ascii_last": "Robinson"
+          },
+          "editorial_team_abbr": "Jax",
+          "display_position": "WR,RB",
+          "position_type": "O",
+          "transaction_data": {
+           "type": "drop",
+           "source_type": "team",
+           "source_team_key": "331.l.246998.t.4",
+           "source_team_name": "Landry's ScroteSquad",
+           "destination_type": "waivers"
+          }
+         }
+        ]
+       }
+      },
+      {
+       "transaction_key": "331.l.246998.tr.394",
+       "transaction_id": "394",
+       "type": "add/drop",
+       "status": "successful",
+       "timestamp": "1414333712",
+       "players": {
+        "count": "2",
+        "player": [
+         {
+          "player_key": "331.p.28103",
+          "player_id": "28103",
+          "name": {
+           "full": "Chandler Catanzaro",
+           "first": "Chandler",
+           "last": "Catanzaro",
+           "ascii_first": "Chandler",
+           "ascii_last": "Catanzaro"
+          },
+          "editorial_team_abbr": "Ari",
+          "display_position": "K",
+          "position_type": "K",
+          "transaction_data": {
+           "type": "add",
+           "source_type": "freeagents",
+           "destination_type": "team",
+           "destination_team_key": "331.l.246998.t.4",
+           "destination_team_name": "Landry's ScroteSquad"
+          }
+         },
+         {
+          "player_key": "331.p.24149",
+          "player_id": "24149",
+          "name": {
+           "full": "Boobie Dixon",
+           "first": "Boobie",
+           "last": "Dixon",
+           "ascii_first": "Boobie",
+           "ascii_last": "Dixon"
+          },
+          "editorial_team_abbr": "Buf",
+          "display_position": "RB",
+          "position_type": "O",
+          "transaction_data": {
+           "type": "drop",
+           "source_type": "team",
+           "source_team_key": "331.l.246998.t.4",
+           "source_team_name": "Landry's ScroteSquad",
+           "destination_type": "waivers"
+          }
+         }
+        ]
+       }
+      },
+      {
+       "transaction_key": "331.l.246998.tr.393",
+       "transaction_id": "393",
+       "type": "add/drop",
+       "status": "successful",
+       "timestamp": "1414331258",
+       "players": {
+        "count": "2",
+        "player": [
+         {
+          "player_key": "331.p.27549",
+          "player_id": "27549",
+          "name": {
+           "full": "Ha Ha Clinton-Dix",
+           "first": "Ha Ha",
+           "last": "Clinton-Dix",
+           "ascii_first": "Ha Ha",
+           "ascii_last": "Clinton-Dix"
+          },
+          "editorial_team_abbr": "GB",
+          "display_position": "DB",
+          "position_type": "DP",
+          "transaction_data": {
+           "type": "add",
+           "source_type": "freeagents",
+           "destination_type": "team",
+           "destination_team_key": "331.l.246998.t.6",
+           "destination_team_name": "The Infinite Watts"
+          }
+         },
+         {
+          "player_key": "331.p.7773",
+          "player_id": "7773",
+          "name": {
+           "full": "Johnathan Joseph",
+           "first": "Johnathan",
+           "last": "Joseph",
+           "ascii_first": "Johnathan",
+           "ascii_last": "Joseph"
+          },
+          "editorial_team_abbr": "Hou",
+          "display_position": "DB",
+          "position_type": "DP",
+          "transaction_data": {
+           "type": "drop",
+           "source_type": "team",
+           "source_team_key": "331.l.246998.t.6",
+           "source_team_name": "The Infinite Watts",
+           "destination_type": "waivers"
+          }
+         }
+        ]
+       }
+      },
+      {
+       "transaction_key": "331.l.246998.tr.392",
+       "transaction_id": "392",
+       "type": "add/drop",
+       "status": "successful",
+       "timestamp": "1414302630",
+       "players": {
+        "count": "2",
+        "player": [
+         {
+          "player_key": "331.p.8337",
+          "player_id": "8337",
+          "name": {
+           "full": "Charles Johnson",
+           "first": "Charles",
+           "last": "Johnson",
+           "ascii_first": "Charles",
+           "ascii_last": "Johnson"
+          },
+          "editorial_team_abbr": "Car",
+          "display_position": "DL",
+          "position_type": "DP",
+          "transaction_data": {
+           "type": "add",
+           "source_type": "freeagents",
+           "destination_type": "team",
+           "destination_team_key": "331.l.246998.t.5",
+           "destination_team_name": "Edward Forte Hands"
+          }
+         },
+         {
+          "player_key": "331.p.9278",
+          "player_id": "9278",
+          "name": {
+           "full": "Malcolm Jenkins",
+           "first": "Malcolm",
+           "last": "Jenkins",
+           "ascii_first": "Malcolm",
+           "ascii_last": "Jenkins"
+          },
+          "editorial_team_abbr": "Phi",
+          "display_position": "DB",
+          "position_type": "DP",
+          "transaction_data": {
+           "type": "drop",
+           "source_type": "team",
+           "source_team_key": "331.l.246998.t.5",
+           "source_team_name": "Edward Forte Hands",
+           "destination_type": "waivers"
+          }
+         }
+        ]
+       }
+      },
+      {
+       "transaction_key": "331.l.246998.tr.391",
+       "transaction_id": "391",
+       "type": "drop",
+       "status": "successful",
+       "timestamp": "1414297170",
+       "players": {
+        "count": "1",
+        "player": {
+         "player_key": "331.p.6762",
+         "player_id": "6762",
+         "name": {
+          "full": "Larry Fitzgerald",
+          "first": "Larry",
+          "last": "Fitzgerald",
+          "ascii_first": "Larry",
+          "ascii_last": "Fitzgerald"
+         },
+         "editorial_team_abbr": "Ari",
+         "display_position": "WR",
+         "position_type": "O",
+         "transaction_data": {
+          "type": "drop",
+          "source_type": "team",
+          "source_team_key": "331.l.246998.t.5",
+          "source_team_name": "Edward Forte Hands",
+          "destination_type": "waivers"
+         }
+        }
+       }
+      },
+      {
+       "transaction_key": "331.l.246998.tr.390",
+       "transaction_id": "390",
+       "type": "trade",
+       "status": "successful",
+       "timestamp": "1414227969",
+       "trader_team_key": "331.l.246998.t.8",
+       "trader_team_name": "Ponte's Kryptonite",
+       "tradee_team_key": "331.l.246998.t.9",
+       "tradee_team_name": "Hufflepuff",
+       "picks": {
+        "pick": [
+         {
+          "source_team_key": "331.l.246998.t.8",
+          "source_team_name": "Ponte's Kryptonite",
+          "destination_team_key": "331.l.246998.t.9",
+          "destination_team_name": "Hufflepuff",
+          "original_team_key": "331.l.246998.t.8",
+          "original_team_name": "Ponte's Kryptonite",
+          "round": "17"
+         },
+         {
+          "source_team_key": "331.l.246998.t.9",
+          "source_team_name": "Hufflepuff",
+          "destination_team_key": "331.l.246998.t.8",
+          "destination_team_name": "Ponte's Kryptonite",
+          "original_team_key": "331.l.246998.t.9",
+          "original_team_name": "Hufflepuff",
+          "round": "10"
+         }
+        ]
+       },
+       "players": {
+        "count": "2",
+        "player": [
+         {
+          "player_key": "331.p.25755",
+          "player_id": "25755",
+          "name": {
+           "full": "Alshon Jeffery",
+           "first": "Alshon",
+           "last": "Jeffery",
+           "ascii_first": "Alshon",
+           "ascii_last": "Jeffery"
+          },
+          "editorial_team_abbr": "Chi",
+          "display_position": "WR",
+          "position_type": "O",
+          "transaction_data": {
+           "type": "trade",
+           "source_type": "team",
+           "source_team_key": "331.l.246998.t.8",
+           "source_team_name": "Ponte's Kryptonite",
+           "destination_type": "team",
+           "destination_team_key": "331.l.246998.t.9",
+           "destination_team_name": "Hufflepuff"
+          }
+         },
+         {
+          "player_key": "331.p.26699",
+          "player_id": "26699",
+          "name": {
+           "full": "Keenan Allen",
+           "first": "Keenan",
+           "last": "Allen",
+           "ascii_first": "Keenan",
+           "ascii_last": "Allen"
+          },
+          "editorial_team_abbr": "SD",
+          "display_position": "WR",
+          "position_type": "O",
+          "transaction_data": {
+           "type": "trade",
+           "source_type": "team",
+           "source_team_key": "331.l.246998.t.9",
+           "source_team_name": "Hufflepuff",
+           "destination_type": "team",
+           "destination_team_key": "331.l.246998.t.8",
+           "destination_team_name": "Ponte's Kryptonite"
+          }
+         }
+        ]
+       }
+      },
+      {
+       "transaction_key": "331.l.246998.tr.389",
+       "transaction_id": "389",
+       "type": "add/drop",
+       "status": "successful",
+       "timestamp": "1414176745",
+       "players": {
+        "count": "2",
+        "player": [
+         {
+          "player_key": "331.p.24961",
+          "player_id": "24961",
+          "name": {
+           "full": "Charles Clay",
+           "first": "Charles",
+           "last": "Clay",
+           "ascii_first": "Charles",
+           "ascii_last": "Clay"
+          },
+          "editorial_team_abbr": "Mia",
+          "display_position": "TE",
+          "position_type": "O",
+          "transaction_data": {
+           "type": "add",
+           "source_type": "freeagents",
+           "destination_type": "team",
+           "destination_team_key": "331.l.246998.t.6",
+           "destination_team_name": "The Infinite Watts"
+          }
+         },
+         {
+          "player_key": "331.p.7847",
+          "player_id": "7847",
+          "name": {
+           "full": "Owen Daniels",
+           "first": "Owen",
+           "last": "Daniels",
+           "ascii_first": "Owen",
+           "ascii_last": "Daniels"
+          },
+          "editorial_team_abbr": "Bal",
+          "display_position": "TE",
+          "position_type": "O",
+          "transaction_data": {
+           "type": "drop",
+           "source_type": "team",
+           "source_team_key": "331.l.246998.t.6",
+           "source_team_name": "The Infinite Watts",
+           "destination_type": "waivers"
+          }
+         }
+        ]
+       }
+      },
       {
        "transaction_key": "331.l.246998.tr.388",
        "transaction_id": "388",
@@ -249,7 +791,7 @@
            "source_type": "freeagents",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -269,7 +811,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -519,7 +1061,7 @@
            "source_type": "waivers",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -539,7 +1081,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -573,7 +1115,7 @@
            "source_type": "waivers",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -593,7 +1135,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -627,7 +1169,7 @@
            "source_type": "waivers",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -647,7 +1189,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -789,7 +1331,7 @@
            "source_type": "waivers",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -809,7 +1351,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -982,7 +1524,7 @@
            "source_type": "freeagents",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -1002,7 +1544,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -1036,7 +1578,7 @@
            "source_type": "freeagents",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -1056,7 +1598,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -1420,7 +1962,7 @@
            "source_type": "freeagents",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -1440,7 +1982,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -1798,7 +2340,7 @@
            "source_type": "waivers",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -1818,7 +2360,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -2122,7 +2664,7 @@
            "source_type": "waivers",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -2142,7 +2684,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -2156,25 +2698,25 @@
        "status": "successful",
        "timestamp": "1413384428",
        "trader_team_key": "331.l.246998.t.8",
-       "trader_team_name": "The Proper Football?",
+       "trader_team_name": "Ponte's Kryptonite",
        "tradee_team_key": "331.l.246998.t.1",
        "tradee_team_name": "Black Unicorns",
        "picks": {
         "pick": [
          {
           "source_team_key": "331.l.246998.t.8",
-          "source_team_name": "The Proper Football?",
+          "source_team_name": "Ponte's Kryptonite",
           "destination_team_key": "331.l.246998.t.1",
           "destination_team_name": "Black Unicorns",
           "original_team_key": "331.l.246998.t.8",
-          "original_team_name": "The Proper Football?",
+          "original_team_name": "Ponte's Kryptonite",
           "round": "18"
          },
          {
           "source_team_key": "331.l.246998.t.1",
           "source_team_name": "Black Unicorns",
           "destination_team_key": "331.l.246998.t.8",
-          "destination_team_name": "The Proper Football?",
+          "destination_team_name": "Ponte's Kryptonite",
           "original_team_key": "331.l.246998.t.1",
           "original_team_name": "Black Unicorns",
           "round": "10"
@@ -2201,7 +2743,7 @@
            "type": "trade",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.1",
            "destination_team_name": "Black Unicorns"
@@ -2227,7 +2769,7 @@
            "source_team_name": "Black Unicorns",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          }
         ]
@@ -3109,7 +3651,7 @@
            "source_type": "waivers",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -3129,7 +3671,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -3433,7 +3975,7 @@
            "source_type": "waivers",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -3453,7 +3995,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -3518,7 +4060,7 @@
            "source_type": "freeagents",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -3538,7 +4080,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -3572,7 +4114,7 @@
            "source_type": "freeagents",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -3592,7 +4134,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -3625,7 +4167,7 @@
           "source_type": "freeagents",
           "destination_type": "team",
           "destination_team_key": "331.l.246998.t.8",
-          "destination_team_name": "The Proper Football?"
+          "destination_team_name": "Ponte's Kryptonite"
          }
         }
        }
@@ -3670,7 +4212,7 @@
        "trader_team_key": "331.l.246998.t.9",
        "trader_team_name": "Hufflepuff",
        "tradee_team_key": "331.l.246998.t.8",
-       "tradee_team_name": "The Proper Football?",
+       "tradee_team_name": "Ponte's Kryptonite",
        "players": {
         "count": "3",
         "player": [
@@ -3694,7 +4236,7 @@
            "source_team_name": "Hufflepuff",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -3714,7 +4256,7 @@
            "type": "trade",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.9",
            "destination_team_name": "Hufflepuff"
@@ -3737,7 +4279,7 @@
            "type": "trade",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.9",
            "destination_team_name": "Hufflepuff"
@@ -4259,7 +4801,7 @@
            "source_type": "waivers",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -4279,7 +4821,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -4421,7 +4963,7 @@
            "source_type": "waivers",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -4441,7 +4983,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -4776,7 +5318,7 @@
            "source_type": "waivers",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -4796,7 +5338,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -4976,7 +5518,7 @@
            "source_type": "freeagents",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -4996,7 +5538,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -5208,7 +5750,7 @@
            "source_type": "freeagents",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -5228,7 +5770,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -6427,7 +6969,7 @@
            "source_type": "waivers",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -6447,7 +6989,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -6759,7 +7301,7 @@
            "source_type": "waivers",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -6779,7 +7321,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -6844,7 +7386,7 @@
            "source_type": "freeagents",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -6864,7 +7406,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -6898,7 +7440,7 @@
            "source_type": "waivers",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -6918,7 +7460,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -6986,7 +7528,7 @@
        "status": "successful",
        "timestamp": "1411199969",
        "trader_team_key": "331.l.246998.t.8",
-       "trader_team_name": "The Proper Football?",
+       "trader_team_name": "Ponte's Kryptonite",
        "tradee_team_key": "331.l.246998.t.1",
        "tradee_team_name": "Black Unicorns",
        "players": {
@@ -7009,7 +7551,7 @@
            "type": "trade",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.1",
            "destination_team_name": "Black Unicorns"
@@ -7035,7 +7577,7 @@
            "source_team_name": "Black Unicorns",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          }
         ]
@@ -7284,7 +7826,7 @@
            "source_type": "freeagents",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -7304,7 +7846,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -7639,7 +8181,7 @@
            "source_type": "waivers",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -7659,7 +8201,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -7963,7 +8505,7 @@
            "source_type": "waivers",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -7983,7 +8525,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -8053,7 +8595,7 @@
        "trader_team_key": "331.l.246998.t.4",
        "trader_team_name": "Landry's ScroteSquad",
        "tradee_team_key": "331.l.246998.t.8",
-       "tradee_team_name": "The Proper Football?",
+       "tradee_team_name": "Ponte's Kryptonite",
        "players": {
         "count": "4",
         "player": [
@@ -8077,7 +8619,7 @@
            "source_team_name": "Landry's ScroteSquad",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -8100,7 +8642,7 @@
            "source_team_name": "Landry's ScroteSquad",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -8120,7 +8662,7 @@
            "type": "trade",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.4",
            "destination_team_name": "Landry's ScroteSquad"
@@ -8143,7 +8685,7 @@
            "type": "trade",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.4",
            "destination_team_name": "Landry's ScroteSquad"
@@ -8935,7 +9477,7 @@
            "source_type": "waivers",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -8955,7 +9497,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -9259,7 +9801,7 @@
            "source_type": "waivers",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -9279,7 +9821,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
@@ -9313,7 +9855,7 @@
            "source_type": "freeagents",
            "destination_type": "team",
            "destination_team_key": "331.l.246998.t.8",
-           "destination_team_name": "The Proper Football?"
+           "destination_team_name": "Ponte's Kryptonite"
           }
          },
          {
@@ -9333,7 +9875,7 @@
            "type": "drop",
            "source_type": "team",
            "source_team_key": "331.l.246998.t.8",
-           "source_team_name": "The Proper Football?",
+           "source_team_name": "Ponte's Kryptonite",
            "destination_type": "waivers"
           }
          }
