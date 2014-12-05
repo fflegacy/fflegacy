@@ -47,8 +47,8 @@ You should have the following minimally setup:
 
 ### Initial  Setup
 
-    $ git clone git@github.com:bergren2/heymrbass.git
-    $ cd heymrbass
+    $ git clone git@github.com:bergren2/fflegacy.git
+    $ cd fflegacy
     $ rbenv install
     $ gem install bundler
     $ bundle install
