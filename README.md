@@ -1,5 +1,26 @@
 # Fantasy Football Legacy League
 
+I still can't believe this is a thing.
+
+## Table of Contents
+
+- [Purpose](#purpose)
+- [Project Setup](#project-setup)
+  - [Environment Prereqs](#environment-prereqs)
+  - [Initial Setup](#initial-setup)
+  - [Development](#development)
+  - [Deployment](#deployment)
+    - [Caveats](#caveats)
+- [Data Overview](#data-overview)
+  - [Scoring](#scoring)
+  - [Stats](#stats)
+  - [Matchups](#matchups)
+  - [Locks](#locks)
+  - [Transactions](#transactions)
+  - [Data Format](#data-format)
+  - [Data Caveats](#data-caveats)
+- [Wiki](#wiki)
+
 ## Purpose
 
 This repository is used as an official record for player transactions, matchups,
@@ -13,6 +34,44 @@ It's sufficient enough to be able to look in the archives and remind someone
 they had a terrible draft or that they left points on their bench; there's no
 need to analyze how good someone is at the waiver wire or how good players
 actually are IRL. That's what [Google](https://www.google.com) is for.
+
+## Project Setup
+
+### Environment Prereqs
+
+You should have the following minimally setup:
+
+- [Git](https://help.github.com/articles/set-up-git) (duh)
+- [rbenv](https://github.com/sstephenson/rbenv)
+& [ruby-build](https://github.com/sstephenson/ruby-build)
+
+### Initial  Setup
+
+    $ git clone git@github.com:bergren2/heymrbass.git
+    $ cd heymrbass
+    $ rbenv install
+    $ gem install bundler
+    $ bundle install
+
+### Development
+
+Fire up
+
+    $ bin/middleman server
+
+and then check out the site at [localhost:4567](http://localhost:4567).
+
+### Deployment
+
+    $ bin/rake publish
+
+#### Caveats
+
+If your directory is dirty, `git stash` before deploying.
+
+If Rake complains about there already being an `origin` remote, remove the `build`
+directory in its entirety.
+
 
 ## Data Overview
 
@@ -64,7 +123,7 @@ until the Super Bowl.
 
     select * from fantasysports.leagues.transactions where league_key='331.l.246998'
 
-## Data Format
+### Data Format
 
 Data is kept in a CSV format so it can be used by everyone, including those who
 think writing code is for nerds. CSVs are kept in the `seasons` directory and
@@ -75,7 +134,7 @@ Raw JSON data will be kept in the `yql` directory. Any scripts that are written
 will be kept in the `scripts` directory. If you'd like to contribute, make
 a pull request. There are no language restrictions.
 
-## Data Caveats
+### Data Caveats
 
 We made an effort to make this as human-readable as possible. Unfortunately, we
 _might_ run into problems because some players have the same name. Rather than
