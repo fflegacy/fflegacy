@@ -140,6 +140,12 @@ end
 # Execute definitions TODO currently just prints csv
 # update_from_json
 
+print "Do you want to update from the YQL? (Y/n) "
+if gets.strip.upcase == 'Y'
+  puts ""
+  update_from_json
+end
+
 while true
   lookup_team
 end
