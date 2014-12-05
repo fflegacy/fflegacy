@@ -15,7 +15,7 @@ def scrub_personal
                    .gsub(/\"nickname\": \".+\"/, '"nickname": "nope"')
       end
     end
-    File.open(f, 'w') do |file|
+    File.open(filename, 'w') do |file|
       file.write out
     end
   end
@@ -102,5 +102,26 @@ def generate_stats(year, week)
 end
 
 # Execute definitions, pass in year, week
-# scrub_personal # TODO specify week as argument
-# generate_stats(2014, 1)
+print "Scrub? (Y/n): "
+begin
+  answer = gets.strip.upcase
+rescue Interrupt
+  puts "\nClosing program..."
+  raise SystemExit
+end
+
+if answer == 'Y'
+  scrub_personal # TODO specify week as argument
+end
+
+while true
+  print "Which stats do you want to generate?\n"
+  print "Please choose a week: "
+  begin
+    answer = gets.strip.to_i
+  rescue Interrup
+    puts "\nClosing program..."
+    raise SystemExit
+  end
+  generate_stats(2014, answer)
+end
