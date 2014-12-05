@@ -21,6 +21,8 @@ I still can't believe this is a thing.
   - [Data Caveats](#data-caveats)
 - [Wiki](#wiki)
 
+---
+
 ## Purpose
 
 This repository is used as an official record for player transactions, matchups,
@@ -34,6 +36,8 @@ It's sufficient enough to be able to look in the archives and remind someone
 they had a terrible draft or that they left points on their bench; there's no
 need to analyze how good someone is at the waiver wire or how good players
 actually are IRL. That's what [Google](https://www.google.com) is for.
+
+---
 
 ## Project Setup
 
@@ -72,6 +76,7 @@ If your directory is dirty, `git stash` before deploying.
 If Rake complains about there already being an `origin` remote, remove the `build`
 directory in its entirety.
 
+---
 
 ## Data Overview
 
@@ -141,6 +146,8 @@ _might_ run into problems because some players have the same name. Rather than
 come up with some arbitrary ID system for players, we're just going to cross
 that bridge if/when we get there. A similar problem might occur with
 representing teams by their owners' initials.
+
+---
 
 ## Wiki
 
