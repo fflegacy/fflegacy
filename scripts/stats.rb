@@ -28,10 +28,13 @@ def scrub_personal
 end
 
 def generate_stats(year, week)
-  stats_filename = File.expand_path("../../seasons/2014/weeks/#{week}/stats.csv", __FILE__)
-  locks_filename = File.expand_path("../../seasons/2014/weeks/#{week}/locks.csv", __FILE__)
+  dir = File.expand_path("../../seasons/#{year}/weeks/#{week}", __FILE__)
+  stats_filename = File.expand_path("stats.csv", dir)
+  locks_filename = File.expand_path("locks.csv", dir)
   files = Dir[File.expand_path("../../yql/weekly/*_#{week}.json", __FILE__)]
   # files = [File.expand_path("../../yql/weekly/1_#{week}.json", __FILE__)] # NOTE for testing
+
+  Dir.mkdir dir unless File.directory? dir
 
   # order of the stats in the 2014_stats.csv, from left to right
   stat_mappings = [
@@ -136,7 +139,7 @@ while true
   print "Please choose a week: "
   begin
     answer = gets.strip.to_i
-  rescue Interrup
+  rescue Interrupt
     puts "\nClosing program..."
     raise SystemExit
   end
