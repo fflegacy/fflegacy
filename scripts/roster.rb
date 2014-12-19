@@ -26,11 +26,13 @@ class Transaction
       @name = "Round #{player['round']}"
       source_dest = player
     end
+
     unless source_dest['source_team_key'].nil?
       @source = initials(source_dest['source_team_key'].match(/t\.(\d+)/)[1])
     else
       @source = source_dest['source_type']
     end
+
     unless source_dest['destination_team_key'].nil?
       @destination = initials(source_dest['destination_team_key'].match(/t\.(\d+)/)[1])
     else
@@ -115,7 +117,7 @@ def lookup_team
 
   players = []
   # determines roster of a team given the list of transactions
-  CSV.foreach(File.expand_path("../../seasons/2014_transactions.csv", __FILE__), headers: true) do |csv|
+  CSV.foreach(File.expand_path("../../seasons/2014/transactions.csv", __FILE__), headers: true) do |csv|
     unless csv['Player/Pick'].match(/Round \d+/)
       if csv['Destination'].eql? team
         players.push csv['Player/Pick']
