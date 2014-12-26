@@ -1,7 +1,7 @@
 {
  "query": {
   "count": 1,
-  "created": "2014-12-19T03:49:57Z",
+  "created": "2014-12-26T03:44:03Z",
   "lang": "en-US",
   "results": {
    "league": {
@@ -13,9 +13,9 @@
     "league_chat_id": "da93l11xqp0phxiu556eppz86548qt0",
     "draft_status": "postdraft",
     "num_teams": "10",
-    "edit_key": "16",
+    "edit_key": "17",
     "weekly_deadline": null,
-    "league_update_timestamp": "1418888485",
+    "league_update_timestamp": "1419493101",
     "scoring_type": "head",
     "league_type": "private",
     "renew": null,
@@ -27,9 +27,280 @@
     "start_date": "2014-09-04",
     "end_week": "16",
     "end_date": "2014-12-22",
+    "is_finished": "1",
     "transactions": {
-     "count": "494",
+     "count": "499",
      "transaction": [
+      {
+       "transaction_key": "331.l.246998.tr.565",
+       "transaction_id": "565",
+       "type": "add/drop",
+       "status": "successful",
+       "timestamp": "1419206376",
+       "players": {
+        "count": "2",
+        "player": [
+         {
+          "player_key": "331.p.25767",
+          "player_id": "25767",
+          "name": {
+           "full": "Brock Osweiler",
+           "first": "Brock",
+           "last": "Osweiler",
+           "ascii_first": "Brock",
+           "ascii_last": "Osweiler"
+          },
+          "editorial_team_abbr": "Den",
+          "display_position": "QB",
+          "position_type": "O",
+          "transaction_data": {
+           "type": "add",
+           "source_type": "freeagents",
+           "destination_type": "team",
+           "destination_team_key": "331.l.246998.t.10",
+           "destination_team_name": "Tom's Kryptonite"
+          }
+         },
+         {
+          "player_key": "331.p.26857",
+          "player_id": "26857",
+          "name": {
+           "full": "Zac Dysert",
+           "first": "Zac",
+           "last": "Dysert",
+           "ascii_first": "Zac",
+           "ascii_last": "Dysert"
+          },
+          "editorial_team_abbr": "Den",
+          "display_position": "QB",
+          "position_type": "O",
+          "transaction_data": {
+           "type": "drop",
+           "source_type": "team",
+           "source_team_key": "331.l.246998.t.10",
+           "source_team_name": "Tom's Kryptonite",
+           "destination_type": "waivers"
+          }
+         }
+        ]
+       }
+      },
+      {
+       "transaction_key": "331.l.246998.tr.564",
+       "transaction_id": "564",
+       "type": "add/drop",
+       "status": "successful",
+       "timestamp": "1419183359",
+       "players": {
+        "count": "2",
+        "player": [
+         {
+          "player_key": "331.p.26857",
+          "player_id": "26857",
+          "name": {
+           "full": "Zac Dysert",
+           "first": "Zac",
+           "last": "Dysert",
+           "ascii_first": "Zac",
+           "ascii_last": "Dysert"
+          },
+          "editorial_team_abbr": "Den",
+          "display_position": "QB",
+          "position_type": "O",
+          "transaction_data": {
+           "type": "add",
+           "source_type": "freeagents",
+           "destination_type": "team",
+           "destination_team_key": "331.l.246998.t.10",
+           "destination_team_name": "Tom's Kryptonite"
+          }
+         },
+         {
+          "player_key": "331.p.26727",
+          "player_id": "26727",
+          "name": {
+           "full": "Jelani Jenkins",
+           "first": "Jelani",
+           "last": "Jenkins",
+           "ascii_first": "Jelani",
+           "ascii_last": "Jenkins"
+          },
+          "editorial_team_abbr": "Mia",
+          "display_position": "LB",
+          "position_type": "DP",
+          "transaction_data": {
+           "type": "drop",
+           "source_type": "team",
+           "source_team_key": "331.l.246998.t.10",
+           "source_team_name": "Tom's Kryptonite",
+           "destination_type": "waivers"
+          }
+         }
+        ]
+       }
+      },
+      {
+       "transaction_key": "331.l.246998.tr.563",
+       "transaction_id": "563",
+       "type": "add/drop",
+       "status": "successful",
+       "timestamp": "1419181627",
+       "players": {
+        "count": "2",
+        "player": [
+         {
+          "player_key": "331.p.26273",
+          "player_id": "26273",
+          "name": {
+           "full": "Jonas Gray",
+           "first": "Jonas",
+           "last": "Gray",
+           "ascii_first": "Jonas",
+           "ascii_last": "Gray"
+          },
+          "editorial_team_abbr": "NE",
+          "display_position": "RB",
+          "position_type": "O",
+          "transaction_data": {
+           "type": "add",
+           "source_type": "freeagents",
+           "destination_type": "team",
+           "destination_team_key": "331.l.246998.t.2",
+           "destination_team_name": "Stamping Mushrooms"
+          }
+         },
+         {
+          "player_key": "331.p.24873",
+          "player_id": "24873",
+          "name": {
+           "full": "Allen Bailey",
+           "first": "Allen",
+           "last": "Bailey",
+           "ascii_first": "Allen",
+           "ascii_last": "Bailey"
+          },
+          "editorial_team_abbr": "KC",
+          "display_position": "DL",
+          "position_type": "DP",
+          "transaction_data": {
+           "type": "drop",
+           "source_type": "team",
+           "source_team_key": "331.l.246998.t.2",
+           "source_team_name": "Stamping Mushrooms",
+           "destination_type": "waivers"
+          }
+         }
+        ]
+       }
+      },
+      {
+       "transaction_key": "331.l.246998.tr.562",
+       "transaction_id": "562",
+       "type": "add/drop",
+       "status": "successful",
+       "timestamp": "1419177425",
+       "players": {
+        "count": "2",
+        "player": [
+         {
+          "player_key": "331.p.7203",
+          "player_id": "7203",
+          "name": {
+           "full": "Roddy White",
+           "first": "Roddy",
+           "last": "White",
+           "ascii_first": "Roddy",
+           "ascii_last": "White"
+          },
+          "editorial_team_abbr": "Atl",
+          "display_position": "WR",
+          "position_type": "O",
+          "transaction_data": {
+           "type": "add",
+           "source_type": "freeagents",
+           "destination_type": "team",
+           "destination_team_key": "331.l.246998.t.10",
+           "destination_team_name": "Tom's Kryptonite"
+          }
+         },
+         {
+          "player_key": "331.p.26807",
+          "player_id": "26807",
+          "name": {
+           "full": "Mychal Rivera",
+           "first": "Mychal",
+           "last": "Rivera",
+           "ascii_first": "Mychal",
+           "ascii_last": "Rivera"
+          },
+          "editorial_team_abbr": "Oak",
+          "display_position": "TE",
+          "position_type": "O",
+          "transaction_data": {
+           "type": "drop",
+           "source_type": "team",
+           "source_team_key": "331.l.246998.t.10",
+           "source_team_name": "Tom's Kryptonite",
+           "destination_type": "waivers"
+          }
+         }
+        ]
+       }
+      },
+      {
+       "transaction_key": "331.l.246998.tr.561",
+       "transaction_id": "561",
+       "type": "add/drop",
+       "status": "successful",
+       "timestamp": "1419043557",
+       "players": {
+        "count": "2",
+        "player": [
+         {
+          "player_key": "331.p.25238",
+          "player_id": "25238",
+          "name": {
+           "full": "Matt Asiata",
+           "first": "Matt",
+           "last": "Asiata",
+           "ascii_first": "Matt",
+           "ascii_last": "Asiata"
+          },
+          "editorial_team_abbr": "Min",
+          "display_position": "RB",
+          "position_type": "O",
+          "transaction_data": {
+           "type": "add",
+           "source_type": "freeagents",
+           "destination_type": "team",
+           "destination_team_key": "331.l.246998.t.7",
+           "destination_team_name": "The Seven Dorfs"
+          }
+         },
+         {
+          "player_key": "331.p.9514",
+          "player_id": "9514",
+          "name": {
+           "full": "Rashad Jennings",
+           "first": "Rashad",
+           "last": "Jennings",
+           "ascii_first": "Rashad",
+           "ascii_last": "Jennings"
+          },
+          "editorial_team_abbr": "NYG",
+          "display_position": "RB",
+          "position_type": "O",
+          "transaction_data": {
+           "type": "drop",
+           "source_type": "team",
+           "source_team_key": "331.l.246998.t.7",
+           "source_team_name": "The Seven Dorfs",
+           "destination_type": "waivers"
+          }
+         }
+        ]
+       }
+      },
       {
        "transaction_key": "331.l.246998.tr.560",
        "transaction_id": "560",
