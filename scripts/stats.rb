@@ -17,7 +17,7 @@ def scrub_personal
     out = ''
     File.open(filename, 'r') do |file|
       file.each do |line|
-        out << line.gsub(/\"email\": \".+@.+\.com\"/, '"email": "nope@nope.com"')
+        out << line.gsub(/\"email\": \".+@.+\.(com|org)\"/, '"email": "nope@nope.com"')
                    .gsub(/\"nickname\": \".+\"/, '"nickname": "nope"')
       end
     end
