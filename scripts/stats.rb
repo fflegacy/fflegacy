@@ -100,11 +100,17 @@ def generate_stats(year, week)
       stats_hash = Hash.new(0)
       stats.each { |s| stats_hash[s['stat_id']] = s['value'] }
 
-      stats_row = "#{pid},#{name},#{week}"
-      stat_mappings.each { |i| stats_row += ",#{stats_hash[i.to_s]}" }
-      player_stats_rows << stats_row
+      # Manual data overrides, otherwise execute as intended
+      if week == 1 and name == "Bobby Wagner"
+        player_stats_rows << "27355,Andy Mulumba,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0"
+        player_locks_rows << "1,CR,LB,27355,Andy Mulumba"
+      else
+        stats_row = "#{pid},#{name},#{week}"
+        stat_mappings.each { |i| stats_row += ",#{stats_hash[i.to_s]}" }
+        player_stats_rows << stats_row
 
-      player_locks_rows << "#{week},#{team},#{position},#{pid},#{name}"
+        player_locks_rows << "#{week},#{team},#{position},#{pid},#{name}"
+      end
     end
   end
 
