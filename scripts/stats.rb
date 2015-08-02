@@ -122,7 +122,7 @@ def generate_stats(year, week)
 end
 
 # Execute definitions, pass in year, week
-print "Scrub? (Y/n): "
+print "Scrub personal data? (Y/n): "
 begin
   answer = gets.strip.upcase
 rescue Interrupt
