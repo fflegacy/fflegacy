@@ -101,18 +101,21 @@ def update_from_json
   end
 end
 
+def close_program
+  puts "\nClosing program..."
+  raise SystemExit
+end
+
 def lookup_team
   print "Enter team:".underline + ' '
   begin
     team = gets.strip.upcase
   rescue Interrupt
-    puts "\nClosing program..."
-    raise SystemExit
+    close_program
   end
 
   if team == 'EXIT'
-    puts "\nClosing program..."
-    raise SystemExit
+    close_program
   end
 
   players = []
@@ -142,11 +145,24 @@ end
 # Execute definitions TODO currently just prints csv
 # update_from_json
 
-print "Do you want to update from the YQL? (Y/n) "
-if gets.strip.upcase == 'Y'
-  puts ""
-  update_from_json
+def prompt_update
+  print "Do you want to update from the YQL? (Y/n) "
+  begin
+    response = gets.strip.upcase
+  rescue Interrupt
+    puts "\nClosing program..."
+    raise SystemExit
+  end
+
+  if response == 'Y'
+    puts ""
+    update_from_json
+  end
 end
+
+### EXECUTION BELOW ###
+
+prompt_update
 
 while true
   lookup_team
