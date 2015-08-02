@@ -3,7 +3,7 @@
 # want to check. Close the program by typing "exit" or using ctrl+c.
 #
 # Requirements:
-# $ gem install colarize
+# $ gem install colorize
 
 require 'colorize'
 require 'csv'
