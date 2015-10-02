@@ -60,7 +60,7 @@ end
 
 def update_from_json
   transactions = {}
-  File.open(File.expand_path("../../yql/2014_transactions.json", __FILE__), 'r') do |f|
+  File.open(File.expand_path("../../yql/2015_transactions.json", __FILE__), 'r') do |f|
     transactions = JSON.load(f)['query']['results']['league']['transactions']
   end
 
@@ -120,8 +120,8 @@ def lookup_team
 
   players = []
   # determines roster of a team given the list of transactions
-  CSV.foreach(File.expand_path("../../seasons/2014/transactions.csv", __FILE__), headers: true) do |csv|
-    unless csv['Player/Pick'].match(/Round \d+/)
+  CSV.foreach(File.expand_path("../../seasons/2015/transactions.csv", __FILE__), headers: true) do |csv|
+    unless csv['Player/Pick'].match(/Round \d+/) or csv['Source'] == 'keeper'
       if csv['Destination'].eql? team
         players.push csv['Player/Pick']
       elsif csv['Source'].eql? team
