@@ -41,7 +41,11 @@ class Transaction
   end
 
   def initials id
-    owners = ['DB', 'TP', 'SC', 'MP', 'CR', 'MM', 'MW', 'BT', 'TJ', 'JC']
+    # TODO map this to a file or something, don't hardcode it
+    # it will probably change from year to year
+
+    # 2014 owners = ['DB', 'TP', 'SC', 'MP', 'CR', 'MM', 'MW', 'BT', 'TJ', 'JC']
+    owners = ['DB', 'MP', 'TP', 'SC', 'TJ', 'MW', 'JC', 'BT', 'CR', 'MM']
     return owners[id.to_i - 1]
   end
 
@@ -96,8 +100,24 @@ def update_from_json
     end
   end
 
-  transactions_array.reverse.each do |a|
-    puts a.to_s
+  # TODO there's a bug where the script won't add new transactions if the only
+  # existing transactions are from the draft
+
+  # load existing transactions, and then find the most recent recorded transaction
+  existing_transactions = CSV.read(File.expand_path("../../seasons/2015/transactions.csv", __FILE__))
+  existing_index = transactions_array.find_index existing_transactions[-1].to_csv.chop
+
+  File.open(File.expand_path("../../seasons/2015/transactions.csv", __FILE__), 'a') do |file|
+    # if existing_index is nil, then add all new transactions
+    # if existing_index is i, then add all transactions after it
+    count = 0
+    transactions_array.to_enum.with_index.reverse_each do |transaction, index|
+      if existing_index.nil? or index < existing_index
+        file << "#{transaction}\n"
+        count += 1
+      end
+    end
+    puts "Added #{count} transactions from YQL.\n"
   end
 end
 
