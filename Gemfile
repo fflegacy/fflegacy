@@ -15,3 +15,6 @@ gem "tzinfo-data", platforms: [:mswin, :mingw]
 
 # For publishing to GitHub Pages
 gem "middleman-gh-pages"
+
+# COLORS
+gem "colorize"
