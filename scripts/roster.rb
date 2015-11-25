@@ -1,9 +1,6 @@
 # This script is for checking the current rosters of each team based on the full
 # history of transactions. When prompted, enter in the initials of the team you
 # want to check. Close the program by typing "exit" or using ctrl+c.
-#
-# Requirements:
-# $ gem install colorize
 
 require 'colorize'
 require 'csv'
