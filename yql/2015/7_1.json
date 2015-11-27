@@ -1,0 +1,2554 @@
+{
+ "query": {
+  "count": 1,
+  "created": "2015-11-26T23:43:20Z",
+  "lang": "en-US",
+  "results": {
+   "team": {
+    "team_key": "348.l.22551.t.7",
+    "team_id": "7",
+    "name": "Tom's Kryptonite",
+    "url": "http://football.fantasysports.yahoo.com/f1/22551/7",
+    "team_logos": {
+     "team_logo": {
+      "size": "large",
+      "url": "https://i.imgur-ysports.com/oT09sLjy.jpg"
+     }
+    },
+    "division_id": "1",
+    "waiver_priority": "8",
+    "number_of_moves": "27",
+    "number_of_trades": "2",
+    "roster_adds": {
+     "coverage_type": "week",
+     "coverage_value": "12",
+     "value": "2"
+    },
+    "clinched_playoffs": "1",
+    "league_scoring_type": "head",
+    "managers": {
+     "manager": {
+      "manager_id": "7",
+      "nickname": "nope",
+      "guid": "KLAXTYKBPXWVOHHM3VCVUBY3TA",
+      "email": "nope@nope.com",
+      "image_url": "https://s.yimg.com/wv/images/d0ef940be6fa193208df002803579072_64.png"
+     }
+    },
+    "roster": {
+     "coverage_type": "week",
+     "week": "1",
+     "is_editable": "0",
+     "players": {
+      "count": "24",
+      "player": [
+       {
+        "player_key": "348.p.4256",
+        "player_id": "4256",
+        "name": {
+         "full": "Peyton Manning",
+         "first": "Peyton",
+         "last": "Manning",
+         "ascii_first": "Peyton",
+         "ascii_last": "Manning"
+        },
+        "status": "O",
+        "injury_note": "foot, rib cage",
+        "editorial_player_key": "nfl.p.4256",
+        "editorial_team_key": "nfl.t.7",
+        "editorial_team_full_name": "Denver Broncos",
+        "editorial_team_abbr": "Den",
+        "bye_weeks": {
+         "week": "7"
+        },
+        "uniform_number": "18",
+        "display_position": "QB",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/uSfVaHKHdQElW.T3VI2V6g--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/4256.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/uSfVaHKHdQElW.T3VI2V6g--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/4256.png",
+        "is_undroppable": "0",
+        "position_type": "O",
+        "eligible_positions": {
+         "position": "QB"
+        },
+        "has_player_notes": "1",
+        "has_recent_player_notes": "1",
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "QB"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "4",
+            "value": "175"
+           },
+           {
+            "stat_id": "5",
+            "value": "0"
+           },
+           {
+            "stat_id": "6",
+            "value": "1"
+           },
+           {
+            "stat_id": "8",
+            "value": "1"
+           },
+           {
+            "stat_id": "9",
+            "value": "-1"
+           },
+           {
+            "stat_id": "10",
+            "value": "0"
+           },
+           {
+            "stat_id": "78",
+            "value": "0"
+           },
+           {
+            "stat_id": "11",
+            "value": "0"
+           },
+           {
+            "stat_id": "12",
+            "value": "0"
+           },
+           {
+            "stat_id": "13",
+            "value": "0"
+           },
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "16",
+            "value": "0"
+           },
+           {
+            "stat_id": "18",
+            "value": "0"
+           },
+           {
+            "stat_id": "57",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "5.90"
+        }
+       },
+       {
+        "player_key": "348.p.25802",
+        "player_id": "25802",
+        "name": {
+         "full": "T.Y. Hilton",
+         "first": "T.Y.",
+         "last": "Hilton",
+         "ascii_first": "T.Y.",
+         "ascii_last": "Hilton"
+        },
+        "injury_note": "foot",
+        "editorial_player_key": "nfl.p.25802",
+        "editorial_team_key": "nfl.t.11",
+        "editorial_team_full_name": "Indianapolis Colts",
+        "editorial_team_abbr": "Ind",
+        "bye_weeks": {
+         "week": "10"
+        },
+        "uniform_number": "13",
+        "display_position": "WR",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/0GfxA0Yjzzb_01Mu4CcKlQ--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/25802.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/0GfxA0Yjzzb_01Mu4CcKlQ--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/25802.png",
+        "is_undroppable": "0",
+        "position_type": "O",
+        "eligible_positions": {
+         "position": [
+          "WR",
+          "W/R/T"
+         ]
+        },
+        "has_player_notes": "1",
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "WR"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "4",
+            "value": "0"
+           },
+           {
+            "stat_id": "5",
+            "value": "0"
+           },
+           {
+            "stat_id": "6",
+            "value": "0"
+           },
+           {
+            "stat_id": "8",
+            "value": "0"
+           },
+           {
+            "stat_id": "9",
+            "value": "0"
+           },
+           {
+            "stat_id": "10",
+            "value": "0"
+           },
+           {
+            "stat_id": "78",
+            "value": "14"
+           },
+           {
+            "stat_id": "11",
+            "value": "7"
+           },
+           {
+            "stat_id": "12",
+            "value": "88"
+           },
+           {
+            "stat_id": "13",
+            "value": "0"
+           },
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "16",
+            "value": "0"
+           },
+           {
+            "stat_id": "18",
+            "value": "0"
+           },
+           {
+            "stat_id": "57",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "12.30"
+        }
+       },
+       {
+        "player_key": "348.p.27540",
+        "player_id": "27540",
+        "name": {
+         "full": "Odell Beckham Jr.",
+         "first": "Odell",
+         "last": "Beckham Jr.",
+         "ascii_first": "Odell",
+         "ascii_last": "Beckham Jr."
+        },
+        "editorial_player_key": "nfl.p.27540",
+        "editorial_team_key": "nfl.t.19",
+        "editorial_team_full_name": "New York Giants",
+        "editorial_team_abbr": "NYG",
+        "bye_weeks": {
+         "week": "11"
+        },
+        "uniform_number": "13",
+        "display_position": "WR",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/KP_d_2hMRXWNVdG9.s0Cag--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/27540.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/KP_d_2hMRXWNVdG9.s0Cag--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/27540.png",
+        "is_undroppable": "1",
+        "position_type": "O",
+        "eligible_positions": {
+         "position": [
+          "WR",
+          "W/R/T"
+         ]
+        },
+        "has_player_notes": "1",
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "WR"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "4",
+            "value": "0"
+           },
+           {
+            "stat_id": "5",
+            "value": "0"
+           },
+           {
+            "stat_id": "6",
+            "value": "0"
+           },
+           {
+            "stat_id": "8",
+            "value": "0"
+           },
+           {
+            "stat_id": "9",
+            "value": "0"
+           },
+           {
+            "stat_id": "10",
+            "value": "0"
+           },
+           {
+            "stat_id": "78",
+            "value": "8"
+           },
+           {
+            "stat_id": "11",
+            "value": "5"
+           },
+           {
+            "stat_id": "12",
+            "value": "44"
+           },
+           {
+            "stat_id": "13",
+            "value": "0"
+           },
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "16",
+            "value": "0"
+           },
+           {
+            "stat_id": "18",
+            "value": "0"
+           },
+           {
+            "stat_id": "57",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "6.90"
+        }
+       },
+       {
+        "player_key": "348.p.24858",
+        "player_id": "24858",
+        "name": {
+         "full": "DeMarco Murray",
+         "first": "DeMarco",
+         "last": "Murray",
+         "ascii_first": "DeMarco",
+         "ascii_last": "Murray"
+        },
+        "injury_note": "groin",
+        "editorial_player_key": "nfl.p.24858",
+        "editorial_team_key": "nfl.t.21",
+        "editorial_team_full_name": "Philadelphia Eagles",
+        "editorial_team_abbr": "Phi",
+        "bye_weeks": {
+         "week": "8"
+        },
+        "uniform_number": "29",
+        "display_position": "RB",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/mn501_tFK5zZKJykvhit_g--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/24858.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/mn501_tFK5zZKJykvhit_g--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/24858.png",
+        "is_undroppable": "0",
+        "position_type": "O",
+        "eligible_positions": {
+         "position": [
+          "RB",
+          "W/R/T"
+         ]
+        },
+        "has_player_notes": "1",
+        "has_recent_player_notes": "1",
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "RB"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "4",
+            "value": "0"
+           },
+           {
+            "stat_id": "5",
+            "value": "0"
+           },
+           {
+            "stat_id": "6",
+            "value": "0"
+           },
+           {
+            "stat_id": "8",
+            "value": "8"
+           },
+           {
+            "stat_id": "9",
+            "value": "9"
+           },
+           {
+            "stat_id": "10",
+            "value": "1"
+           },
+           {
+            "stat_id": "78",
+            "value": "5"
+           },
+           {
+            "stat_id": "11",
+            "value": "4"
+           },
+           {
+            "stat_id": "12",
+            "value": "11"
+           },
+           {
+            "stat_id": "13",
+            "value": "1"
+           },
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "16",
+            "value": "0"
+           },
+           {
+            "stat_id": "18",
+            "value": "0"
+           },
+           {
+            "stat_id": "57",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "16.00"
+        }
+       },
+       {
+        "player_key": "348.p.26774",
+        "player_id": "26774",
+        "name": {
+         "full": "Joseph Randle",
+         "first": "Joseph",
+         "last": "Randle",
+         "ascii_first": "Joseph",
+         "ascii_last": "Randle"
+        },
+        "status": "O",
+        "injury_note": "back",
+        "editorial_player_key": "nfl.p.26774",
+        "editorial_team_key": "nfl.t.6",
+        "editorial_team_full_name": "Dallas Cowboys",
+        "editorial_team_abbr": "Dal",
+        "bye_weeks": {
+         "week": "6"
+        },
+        "uniform_number": "21",
+        "display_position": "RB",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/On9uS.rDK2P6MIq069_hCg--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/26774.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/On9uS.rDK2P6MIq069_hCg--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/26774.png",
+        "is_undroppable": "0",
+        "position_type": "O",
+        "eligible_positions": {
+         "position": [
+          "RB",
+          "W/R/T"
+         ]
+        },
+        "has_player_notes": "1",
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "RB"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "4",
+            "value": "0"
+           },
+           {
+            "stat_id": "5",
+            "value": "0"
+           },
+           {
+            "stat_id": "6",
+            "value": "0"
+           },
+           {
+            "stat_id": "8",
+            "value": "16"
+           },
+           {
+            "stat_id": "9",
+            "value": "65"
+           },
+           {
+            "stat_id": "10",
+            "value": "0"
+           },
+           {
+            "stat_id": "78",
+            "value": "3"
+           },
+           {
+            "stat_id": "11",
+            "value": "3"
+           },
+           {
+            "stat_id": "12",
+            "value": "42"
+           },
+           {
+            "stat_id": "13",
+            "value": "0"
+           },
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "16",
+            "value": "0"
+           },
+           {
+            "stat_id": "18",
+            "value": "0"
+           },
+           {
+            "stat_id": "57",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "12.20"
+        }
+       },
+       {
+        "player_key": "348.p.26708",
+        "player_id": "26708",
+        "name": {
+         "full": "Jordan Reed",
+         "first": "Jordan",
+         "last": "Reed",
+         "ascii_first": "Jordan",
+         "ascii_last": "Reed"
+        },
+        "editorial_player_key": "nfl.p.26708",
+        "editorial_team_key": "nfl.t.28",
+        "editorial_team_full_name": "Washington Redskins",
+        "editorial_team_abbr": "Was",
+        "bye_weeks": {
+         "week": "8"
+        },
+        "uniform_number": "86",
+        "display_position": "TE",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/dWjOgdHdS9bOjtkGUuk9sg--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/26708.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/dWjOgdHdS9bOjtkGUuk9sg--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/26708.png",
+        "is_undroppable": "0",
+        "position_type": "O",
+        "eligible_positions": {
+         "position": [
+          "TE",
+          "W/R/T"
+         ]
+        },
+        "has_player_notes": "1",
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "TE"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "4",
+            "value": "0"
+           },
+           {
+            "stat_id": "5",
+            "value": "0"
+           },
+           {
+            "stat_id": "6",
+            "value": "0"
+           },
+           {
+            "stat_id": "8",
+            "value": "0"
+           },
+           {
+            "stat_id": "9",
+            "value": "0"
+           },
+           {
+            "stat_id": "10",
+            "value": "0"
+           },
+           {
+            "stat_id": "78",
+            "value": "11"
+           },
+           {
+            "stat_id": "11",
+            "value": "7"
+           },
+           {
+            "stat_id": "12",
+            "value": "63"
+           },
+           {
+            "stat_id": "13",
+            "value": "1"
+           },
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "16",
+            "value": "0"
+           },
+           {
+            "stat_id": "18",
+            "value": "0"
+           },
+           {
+            "stat_id": "57",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "15.80"
+        }
+       },
+       {
+        "player_key": "348.p.7237",
+        "player_id": "7237",
+        "name": {
+         "full": "Vincent Jackson",
+         "first": "Vincent",
+         "last": "Jackson",
+         "ascii_first": "Vincent",
+         "ascii_last": "Jackson"
+        },
+        "injury_note": "knee",
+        "editorial_player_key": "nfl.p.7237",
+        "editorial_team_key": "nfl.t.27",
+        "editorial_team_full_name": "Tampa Bay Buccaneers",
+        "editorial_team_abbr": "TB",
+        "bye_weeks": {
+         "week": "6"
+        },
+        "uniform_number": "83",
+        "display_position": "WR",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/Dv2yXbqTz4gvMsBl6FGxZQ--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20140830/7237.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/Dv2yXbqTz4gvMsBl6FGxZQ--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20140830/7237.png",
+        "is_undroppable": "0",
+        "position_type": "O",
+        "eligible_positions": {
+         "position": [
+          "WR",
+          "W/R/T"
+         ]
+        },
+        "has_player_notes": "1",
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "W/R/T"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "4",
+            "value": "0"
+           },
+           {
+            "stat_id": "5",
+            "value": "0"
+           },
+           {
+            "stat_id": "6",
+            "value": "0"
+           },
+           {
+            "stat_id": "8",
+            "value": "0"
+           },
+           {
+            "stat_id": "9",
+            "value": "0"
+           },
+           {
+            "stat_id": "10",
+            "value": "0"
+           },
+           {
+            "stat_id": "78",
+            "value": "11"
+           },
+           {
+            "stat_id": "11",
+            "value": "4"
+           },
+           {
+            "stat_id": "12",
+            "value": "51"
+           },
+           {
+            "stat_id": "13",
+            "value": "0"
+           },
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "16",
+            "value": "0"
+           },
+           {
+            "stat_id": "18",
+            "value": "0"
+           },
+           {
+            "stat_id": "57",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "7.10"
+        }
+       },
+       {
+        "player_key": "348.p.23984",
+        "player_id": "23984",
+        "name": {
+         "full": "C.J. Spiller",
+         "first": "C.J.",
+         "last": "Spiller",
+         "ascii_first": "C.J.",
+         "ascii_last": "Spiller"
+        },
+        "editorial_player_key": "nfl.p.23984",
+        "editorial_team_key": "nfl.t.18",
+        "editorial_team_full_name": "New Orleans Saints",
+        "editorial_team_abbr": "NO",
+        "bye_weeks": {
+         "week": "11"
+        },
+        "uniform_number": "28",
+        "display_position": "RB",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/xBFaVMj_4cwtrnvfQDkGEw--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/23984.1.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/xBFaVMj_4cwtrnvfQDkGEw--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/23984.1.png",
+        "is_undroppable": "0",
+        "position_type": "O",
+        "eligible_positions": {
+         "position": [
+          "RB",
+          "W/R/T"
+         ]
+        },
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "BN"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "4",
+            "value": "0"
+           },
+           {
+            "stat_id": "5",
+            "value": "0"
+           },
+           {
+            "stat_id": "6",
+            "value": "0"
+           },
+           {
+            "stat_id": "8",
+            "value": "0"
+           },
+           {
+            "stat_id": "9",
+            "value": "0"
+           },
+           {
+            "stat_id": "10",
+            "value": "0"
+           },
+           {
+            "stat_id": "78",
+            "value": "0"
+           },
+           {
+            "stat_id": "11",
+            "value": "0"
+           },
+           {
+            "stat_id": "12",
+            "value": "0"
+           },
+           {
+            "stat_id": "13",
+            "value": "0"
+           },
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "16",
+            "value": "0"
+           },
+           {
+            "stat_id": "18",
+            "value": "0"
+           },
+           {
+            "stat_id": "57",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "0.00"
+        }
+       },
+       {
+        "player_key": "348.p.26671",
+        "player_id": "26671",
+        "name": {
+         "full": "Le'Veon Bell",
+         "first": "Le'Veon",
+         "last": "Bell",
+         "ascii_first": "Le'Veon",
+         "ascii_last": "Bell"
+        },
+        "status": "IR",
+        "injury_note": "right knee",
+        "on_disabled_list": "1",
+        "editorial_player_key": "nfl.p.26671",
+        "editorial_team_key": "nfl.t.23",
+        "editorial_team_full_name": "Pittsburgh Steelers",
+        "editorial_team_abbr": "Pit",
+        "bye_weeks": {
+         "week": "11"
+        },
+        "uniform_number": "26",
+        "display_position": "RB",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/hNYStX54VlqJKBbmfNrh1A--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/26671.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/hNYStX54VlqJKBbmfNrh1A--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/26671.png",
+        "is_undroppable": "0",
+        "position_type": "O",
+        "eligible_positions": {
+         "position": [
+          "RB",
+          "W/R/T",
+          "IR"
+         ]
+        },
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "BN"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "4",
+            "value": "0"
+           },
+           {
+            "stat_id": "5",
+            "value": "0"
+           },
+           {
+            "stat_id": "6",
+            "value": "0"
+           },
+           {
+            "stat_id": "8",
+            "value": "0"
+           },
+           {
+            "stat_id": "9",
+            "value": "0"
+           },
+           {
+            "stat_id": "10",
+            "value": "0"
+           },
+           {
+            "stat_id": "78",
+            "value": "0"
+           },
+           {
+            "stat_id": "11",
+            "value": "0"
+           },
+           {
+            "stat_id": "12",
+            "value": "0"
+           },
+           {
+            "stat_id": "13",
+            "value": "0"
+           },
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "16",
+            "value": "0"
+           },
+           {
+            "stat_id": "18",
+            "value": "0"
+           },
+           {
+            "stat_id": "57",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "0.00"
+        }
+       },
+       {
+        "player_key": "348.p.7203",
+        "player_id": "7203",
+        "name": {
+         "full": "Roddy White",
+         "first": "Roddy",
+         "last": "White",
+         "ascii_first": "Roddy",
+         "ascii_last": "White"
+        },
+        "editorial_player_key": "nfl.p.7203",
+        "editorial_team_key": "nfl.t.1",
+        "editorial_team_full_name": "Atlanta Falcons",
+        "editorial_team_abbr": "Atl",
+        "bye_weeks": {
+         "week": "10"
+        },
+        "uniform_number": "84",
+        "display_position": "WR",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/LAerCVeT28dZSlKVSi4TVA--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/7203.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/LAerCVeT28dZSlKVSi4TVA--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/7203.png",
+        "is_undroppable": "0",
+        "position_type": "O",
+        "eligible_positions": {
+         "position": [
+          "WR",
+          "W/R/T"
+         ]
+        },
+        "has_player_notes": "1",
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "BN"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "4",
+            "value": "0"
+           },
+           {
+            "stat_id": "5",
+            "value": "0"
+           },
+           {
+            "stat_id": "6",
+            "value": "0"
+           },
+           {
+            "stat_id": "8",
+            "value": "0"
+           },
+           {
+            "stat_id": "9",
+            "value": "0"
+           },
+           {
+            "stat_id": "10",
+            "value": "0"
+           },
+           {
+            "stat_id": "78",
+            "value": "8"
+           },
+           {
+            "stat_id": "11",
+            "value": "4"
+           },
+           {
+            "stat_id": "12",
+            "value": "84"
+           },
+           {
+            "stat_id": "13",
+            "value": "0"
+           },
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "16",
+            "value": "0"
+           },
+           {
+            "stat_id": "18",
+            "value": "0"
+           },
+           {
+            "stat_id": "57",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "10.40"
+        }
+       },
+       {
+        "player_key": "348.p.25743",
+        "player_id": "25743",
+        "name": {
+         "full": "Brian Quick",
+         "first": "Brian",
+         "last": "Quick",
+         "ascii_first": "Brian",
+         "ascii_last": "Quick"
+        },
+        "editorial_player_key": "nfl.p.25743",
+        "editorial_team_key": "nfl.t.14",
+        "editorial_team_full_name": "St. Louis Rams",
+        "editorial_team_abbr": "StL",
+        "bye_weeks": {
+         "week": "6"
+        },
+        "uniform_number": "83",
+        "display_position": "WR",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/zsF9llZb8rz7zFdXnyx3dg--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/25743.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/zsF9llZb8rz7zFdXnyx3dg--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/25743.png",
+        "is_undroppable": "0",
+        "position_type": "O",
+        "eligible_positions": {
+         "position": [
+          "WR",
+          "W/R/T"
+         ]
+        },
+        "has_player_notes": "1",
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "BN"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "4",
+            "value": "0"
+           },
+           {
+            "stat_id": "5",
+            "value": "0"
+           },
+           {
+            "stat_id": "6",
+            "value": "0"
+           },
+           {
+            "stat_id": "8",
+            "value": "0"
+           },
+           {
+            "stat_id": "9",
+            "value": "0"
+           },
+           {
+            "stat_id": "10",
+            "value": "0"
+           },
+           {
+            "stat_id": "78",
+            "value": "0"
+           },
+           {
+            "stat_id": "11",
+            "value": "0"
+           },
+           {
+            "stat_id": "12",
+            "value": "0"
+           },
+           {
+            "stat_id": "13",
+            "value": "0"
+           },
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "16",
+            "value": "0"
+           },
+           {
+            "stat_id": "18",
+            "value": "0"
+           },
+           {
+            "stat_id": "57",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "0.00"
+        }
+       },
+       {
+        "player_key": "348.p.27603",
+        "player_id": "27603",
+        "name": {
+         "full": "Tre Mason",
+         "first": "Tre",
+         "last": "Mason",
+         "ascii_first": "Tre",
+         "ascii_last": "Mason"
+        },
+        "injury_note": "ankle",
+        "editorial_player_key": "nfl.p.27603",
+        "editorial_team_key": "nfl.t.14",
+        "editorial_team_full_name": "St. Louis Rams",
+        "editorial_team_abbr": "StL",
+        "bye_weeks": {
+         "week": "6"
+        },
+        "uniform_number": "27",
+        "display_position": "RB",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/EIs8o1D0pVdZtj045166og--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/27603.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/EIs8o1D0pVdZtj045166og--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/27603.png",
+        "is_undroppable": "0",
+        "position_type": "O",
+        "eligible_positions": {
+         "position": [
+          "RB",
+          "W/R/T"
+         ]
+        },
+        "has_player_notes": "1",
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "BN"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "4",
+            "value": "0"
+           },
+           {
+            "stat_id": "5",
+            "value": "0"
+           },
+           {
+            "stat_id": "6",
+            "value": "0"
+           },
+           {
+            "stat_id": "8",
+            "value": "0"
+           },
+           {
+            "stat_id": "9",
+            "value": "0"
+           },
+           {
+            "stat_id": "10",
+            "value": "0"
+           },
+           {
+            "stat_id": "78",
+            "value": "0"
+           },
+           {
+            "stat_id": "11",
+            "value": "0"
+           },
+           {
+            "stat_id": "12",
+            "value": "0"
+           },
+           {
+            "stat_id": "13",
+            "value": "0"
+           },
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "16",
+            "value": "0"
+           },
+           {
+            "stat_id": "18",
+            "value": "0"
+           },
+           {
+            "stat_id": "57",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "0.00"
+        }
+       },
+       {
+        "player_key": "348.p.24553",
+        "player_id": "24553",
+        "name": {
+         "full": "Victor Cruz",
+         "first": "Victor",
+         "last": "Cruz",
+         "ascii_first": "Victor",
+         "ascii_last": "Cruz"
+        },
+        "status": "IR",
+        "injury_note": "torn left calf muscle",
+        "on_disabled_list": "1",
+        "editorial_player_key": "nfl.p.24553",
+        "editorial_team_key": "nfl.t.19",
+        "editorial_team_full_name": "New York Giants",
+        "editorial_team_abbr": "NYG",
+        "bye_weeks": {
+         "week": "11"
+        },
+        "uniform_number": "80",
+        "display_position": "WR",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/q3xMWnTtqzLXPVc4iP7l2Q--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/24553.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/q3xMWnTtqzLXPVc4iP7l2Q--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/24553.png",
+        "is_undroppable": "0",
+        "position_type": "O",
+        "eligible_positions": {
+         "position": [
+          "WR",
+          "W/R/T",
+          "IR"
+         ]
+        },
+        "has_player_notes": "1",
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "BN"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "4",
+            "value": "0"
+           },
+           {
+            "stat_id": "5",
+            "value": "0"
+           },
+           {
+            "stat_id": "6",
+            "value": "0"
+           },
+           {
+            "stat_id": "8",
+            "value": "0"
+           },
+           {
+            "stat_id": "9",
+            "value": "0"
+           },
+           {
+            "stat_id": "10",
+            "value": "0"
+           },
+           {
+            "stat_id": "78",
+            "value": "0"
+           },
+           {
+            "stat_id": "11",
+            "value": "0"
+           },
+           {
+            "stat_id": "12",
+            "value": "0"
+           },
+           {
+            "stat_id": "13",
+            "value": "0"
+           },
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "16",
+            "value": "0"
+           },
+           {
+            "stat_id": "18",
+            "value": "0"
+           },
+           {
+            "stat_id": "57",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "0.00"
+        }
+       },
+       {
+        "player_key": "348.p.7867",
+        "player_id": "7867",
+        "name": {
+         "full": "Stephen Gostkowski",
+         "first": "Stephen",
+         "last": "Gostkowski",
+         "ascii_first": "Stephen",
+         "ascii_last": "Gostkowski"
+        },
+        "editorial_player_key": "nfl.p.7867",
+        "editorial_team_key": "nfl.t.17",
+        "editorial_team_full_name": "New England Patriots",
+        "editorial_team_abbr": "NE",
+        "bye_weeks": {
+         "week": "4"
+        },
+        "uniform_number": "3",
+        "display_position": "K",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/4fDHm9nkkTl6Oe2lJOJ2IA--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/7867.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/4fDHm9nkkTl6Oe2lJOJ2IA--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/7867.png",
+        "is_undroppable": "0",
+        "position_type": "K",
+        "eligible_positions": {
+         "position": "K"
+        },
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "K"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "19",
+            "value": "0"
+           },
+           {
+            "stat_id": "20",
+            "value": "0"
+           },
+           {
+            "stat_id": "21",
+            "value": "0"
+           },
+           {
+            "stat_id": "22",
+            "value": "0"
+           },
+           {
+            "stat_id": "23",
+            "value": "0"
+           },
+           {
+            "stat_id": "29",
+            "value": "4"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "4.00"
+        }
+       },
+       {
+        "player_key": "348.p.7757",
+        "player_id": "7757",
+        "name": {
+         "full": "Donte Whitner",
+         "first": "Donte",
+         "last": "Whitner",
+         "ascii_first": "Donte",
+         "ascii_last": "Whitner"
+        },
+        "status": "P",
+        "injury_note": "concussion",
+        "editorial_player_key": "nfl.p.7757",
+        "editorial_team_key": "nfl.t.5",
+        "editorial_team_full_name": "Cleveland Browns",
+        "editorial_team_abbr": "Cle",
+        "bye_weeks": {
+         "week": "11"
+        },
+        "uniform_number": "31",
+        "display_position": "S",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/FJ198v4Mgwg_CnD.ELD06A--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/7757.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/FJ198v4Mgwg_CnD.ELD06A--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/7757.png",
+        "is_undroppable": "0",
+        "position_type": "DP",
+        "eligible_positions": {
+         "position": "DB"
+        },
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "DB"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "38",
+            "value": "4"
+           },
+           {
+            "stat_id": "39",
+            "value": "6"
+           },
+           {
+            "stat_id": "65",
+            "value": "0"
+           },
+           {
+            "stat_id": "40",
+            "value": "0.0"
+           },
+           {
+            "stat_id": "46",
+            "value": "0"
+           },
+           {
+            "stat_id": "41",
+            "value": "0"
+           },
+           {
+            "stat_id": "42",
+            "value": "0"
+           },
+           {
+            "stat_id": "43",
+            "value": "0"
+           },
+           {
+            "stat_id": "44",
+            "value": "0"
+           },
+           {
+            "stat_id": "45",
+            "value": "0"
+           },
+           {
+            "stat_id": "47",
+            "value": "0"
+           },
+           {
+            "stat_id": "83",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "12.00"
+        }
+       },
+       {
+        "player_key": "348.p.27555",
+        "player_id": "27555",
+        "name": {
+         "full": "Deone Bucannon",
+         "first": "Deone",
+         "last": "Bucannon",
+         "ascii_first": "Deone",
+         "ascii_last": "Bucannon"
+        },
+        "status": "Q",
+        "injury_note": "elbow",
+        "editorial_player_key": "nfl.p.27555",
+        "editorial_team_key": "nfl.t.22",
+        "editorial_team_full_name": "Arizona Cardinals",
+        "editorial_team_abbr": "Ari",
+        "bye_weeks": {
+         "week": "9"
+        },
+        "uniform_number": "20",
+        "display_position": "S",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/eQz3P_KG.LeWQG.8.r4qUw--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/27555.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/eQz3P_KG.LeWQG.8.r4qUw--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/27555.png",
+        "is_undroppable": "0",
+        "position_type": "DP",
+        "eligible_positions": {
+         "position": "DB"
+        },
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "DB"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "38",
+            "value": "6"
+           },
+           {
+            "stat_id": "39",
+            "value": "1"
+           },
+           {
+            "stat_id": "65",
+            "value": "0"
+           },
+           {
+            "stat_id": "40",
+            "value": "0.0"
+           },
+           {
+            "stat_id": "46",
+            "value": "0"
+           },
+           {
+            "stat_id": "41",
+            "value": "0"
+           },
+           {
+            "stat_id": "42",
+            "value": "0"
+           },
+           {
+            "stat_id": "43",
+            "value": "0"
+           },
+           {
+            "stat_id": "44",
+            "value": "0"
+           },
+           {
+            "stat_id": "45",
+            "value": "0"
+           },
+           {
+            "stat_id": "47",
+            "value": "0"
+           },
+           {
+            "stat_id": "83",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "10.00"
+        }
+       },
+       {
+        "player_key": "348.p.24603",
+        "player_id": "24603",
+        "name": {
+         "full": "Barry Church",
+         "first": "Barry",
+         "last": "Church",
+         "ascii_first": "Barry",
+         "ascii_last": "Church"
+        },
+        "status": "P",
+        "injury_note": "ankle",
+        "editorial_player_key": "nfl.p.24603",
+        "editorial_team_key": "nfl.t.6",
+        "editorial_team_full_name": "Dallas Cowboys",
+        "editorial_team_abbr": "Dal",
+        "bye_weeks": {
+         "week": "6"
+        },
+        "uniform_number": "42",
+        "display_position": "S",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/zPom7WQhKZuvSgAv6hjUSg--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/24603.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/zPom7WQhKZuvSgAv6hjUSg--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/24603.png",
+        "is_undroppable": "0",
+        "position_type": "DP",
+        "eligible_positions": {
+         "position": "DB"
+        },
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "DB"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "38",
+            "value": "4"
+           },
+           {
+            "stat_id": "39",
+            "value": "4"
+           },
+           {
+            "stat_id": "65",
+            "value": "0"
+           },
+           {
+            "stat_id": "40",
+            "value": "0.0"
+           },
+           {
+            "stat_id": "46",
+            "value": "0"
+           },
+           {
+            "stat_id": "41",
+            "value": "0"
+           },
+           {
+            "stat_id": "42",
+            "value": "0"
+           },
+           {
+            "stat_id": "43",
+            "value": "0"
+           },
+           {
+            "stat_id": "44",
+            "value": "0"
+           },
+           {
+            "stat_id": "45",
+            "value": "0"
+           },
+           {
+            "stat_id": "47",
+            "value": "0"
+           },
+           {
+            "stat_id": "83",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "10.00"
+        }
+       },
+       {
+        "player_key": "348.p.7250",
+        "player_id": "7250",
+        "name": {
+         "full": "Justin Tuck",
+         "first": "Justin",
+         "last": "Tuck",
+         "ascii_first": "Justin",
+         "ascii_last": "Tuck"
+        },
+        "status": "IR",
+        "injury_note": "torn pectoral muscle",
+        "on_disabled_list": "1",
+        "editorial_player_key": "nfl.p.7250",
+        "editorial_team_key": "nfl.t.13",
+        "editorial_team_full_name": "Oakland Raiders",
+        "editorial_team_abbr": "Oak",
+        "bye_weeks": {
+         "week": "6"
+        },
+        "uniform_number": "91",
+        "display_position": "DE",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/0Qy1.clIYU4x78EnbzjA0w--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/7250.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/0Qy1.clIYU4x78EnbzjA0w--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/7250.png",
+        "is_undroppable": "0",
+        "position_type": "DP",
+        "eligible_positions": {
+         "position": [
+          "DL",
+          "IR"
+         ]
+        },
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "DL"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "38",
+            "value": "3"
+           },
+           {
+            "stat_id": "39",
+            "value": "2"
+           },
+           {
+            "stat_id": "65",
+            "value": "1"
+           },
+           {
+            "stat_id": "40",
+            "value": "0.0"
+           },
+           {
+            "stat_id": "46",
+            "value": "2"
+           },
+           {
+            "stat_id": "41",
+            "value": "0"
+           },
+           {
+            "stat_id": "42",
+            "value": "0"
+           },
+           {
+            "stat_id": "43",
+            "value": "0"
+           },
+           {
+            "stat_id": "44",
+            "value": "0"
+           },
+           {
+            "stat_id": "45",
+            "value": "0"
+           },
+           {
+            "stat_id": "47",
+            "value": "1"
+           },
+           {
+            "stat_id": "83",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "19.50"
+        }
+       },
+       {
+        "player_key": "348.p.27480",
+        "player_id": "27480",
+        "name": {
+         "full": "Xavier Proctor",
+         "first": "Xavier",
+         "last": "Proctor",
+         "ascii_first": "Xavier",
+         "ascii_last": "Proctor"
+        },
+        "editorial_player_key": "nfl.p.27480",
+        "editorial_team_key": "nfl.t.19",
+        "editorial_team_full_name": "New York Giants",
+        "editorial_team_abbr": "NYG",
+        "bye_weeks": {
+         "week": "11"
+        },
+        "uniform_number": "64",
+        "display_position": "DT",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/tEtSk_Rq.s92qG2r1izOBA--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/27480.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/tEtSk_Rq.s92qG2r1izOBA--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/27480.png",
+        "is_undroppable": "0",
+        "position_type": "DP",
+        "eligible_positions": {
+         "position": "DL"
+        },
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "DL"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "38",
+            "value": "0"
+           },
+           {
+            "stat_id": "39",
+            "value": "0"
+           },
+           {
+            "stat_id": "65",
+            "value": "0"
+           },
+           {
+            "stat_id": "40",
+            "value": "0"
+           },
+           {
+            "stat_id": "46",
+            "value": "0"
+           },
+           {
+            "stat_id": "41",
+            "value": "0"
+           },
+           {
+            "stat_id": "42",
+            "value": "0"
+           },
+           {
+            "stat_id": "43",
+            "value": "0"
+           },
+           {
+            "stat_id": "44",
+            "value": "0"
+           },
+           {
+            "stat_id": "45",
+            "value": "0"
+           },
+           {
+            "stat_id": "47",
+            "value": "0"
+           },
+           {
+            "stat_id": "83",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "0.00"
+        }
+       },
+       {
+        "player_key": "348.p.25757",
+        "player_id": "25757",
+        "name": {
+         "full": "Bobby Wagner",
+         "first": "Bobby",
+         "last": "Wagner",
+         "ascii_first": "Bobby",
+         "ascii_last": "Wagner"
+        },
+        "editorial_player_key": "nfl.p.25757",
+        "editorial_team_key": "nfl.t.26",
+        "editorial_team_full_name": "Seattle Seahawks",
+        "editorial_team_abbr": "Sea",
+        "bye_weeks": {
+         "week": "9"
+        },
+        "uniform_number": "54",
+        "display_position": "LB",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/O_CN8h_wSQYB32eE4XOtew--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/25757.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/O_CN8h_wSQYB32eE4XOtew--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/25757.png",
+        "is_undroppable": "0",
+        "position_type": "DP",
+        "eligible_positions": {
+         "position": "LB"
+        },
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "LB"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "38",
+            "value": "5"
+           },
+           {
+            "stat_id": "39",
+            "value": "2"
+           },
+           {
+            "stat_id": "65",
+            "value": "0"
+           },
+           {
+            "stat_id": "40",
+            "value": "0.0"
+           },
+           {
+            "stat_id": "46",
+            "value": "0"
+           },
+           {
+            "stat_id": "41",
+            "value": "0"
+           },
+           {
+            "stat_id": "42",
+            "value": "0"
+           },
+           {
+            "stat_id": "43",
+            "value": "0"
+           },
+           {
+            "stat_id": "44",
+            "value": "0"
+           },
+           {
+            "stat_id": "45",
+            "value": "0"
+           },
+           {
+            "stat_id": "47",
+            "value": "0"
+           },
+           {
+            "stat_id": "83",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "9.50"
+        }
+       },
+       {
+        "player_key": "348.p.7783",
+        "player_id": "7783",
+        "name": {
+         "full": "D'Qwell Jackson",
+         "first": "D'Qwell",
+         "last": "Jackson",
+         "ascii_first": "D'Qwell",
+         "ascii_last": "Jackson"
+        },
+        "injury_note": "hamstring",
+        "editorial_player_key": "nfl.p.7783",
+        "editorial_team_key": "nfl.t.11",
+        "editorial_team_full_name": "Indianapolis Colts",
+        "editorial_team_abbr": "Ind",
+        "bye_weeks": {
+         "week": "10"
+        },
+        "uniform_number": "52",
+        "display_position": "LB",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/JRPI0MRsGOXmBapfV5IUBw--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/7783.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/JRPI0MRsGOXmBapfV5IUBw--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/7783.png",
+        "is_undroppable": "0",
+        "position_type": "DP",
+        "eligible_positions": {
+         "position": "LB"
+        },
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "LB"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "38",
+            "value": "5"
+           },
+           {
+            "stat_id": "39",
+            "value": "4"
+           },
+           {
+            "stat_id": "65",
+            "value": "1"
+           },
+           {
+            "stat_id": "40",
+            "value": "0.0"
+           },
+           {
+            "stat_id": "46",
+            "value": "0"
+           },
+           {
+            "stat_id": "41",
+            "value": "0"
+           },
+           {
+            "stat_id": "42",
+            "value": "0"
+           },
+           {
+            "stat_id": "43",
+            "value": "0"
+           },
+           {
+            "stat_id": "44",
+            "value": "0"
+           },
+           {
+            "stat_id": "45",
+            "value": "0"
+           },
+           {
+            "stat_id": "47",
+            "value": "0"
+           },
+           {
+            "stat_id": "83",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "14.50"
+        }
+       },
+       {
+        "player_key": "348.p.25756",
+        "player_id": "25756",
+        "name": {
+         "full": "Mychal Kendricks",
+         "first": "Mychal",
+         "last": "Kendricks",
+         "ascii_first": "Mychal",
+         "ascii_last": "Kendricks"
+        },
+        "editorial_player_key": "nfl.p.25756",
+        "editorial_team_key": "nfl.t.21",
+        "editorial_team_full_name": "Philadelphia Eagles",
+        "editorial_team_abbr": "Phi",
+        "bye_weeks": {
+         "week": "8"
+        },
+        "uniform_number": "95",
+        "display_position": "LB",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/.d51uTCCDU.9pR0.aHmG5g--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/25756.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/.d51uTCCDU.9pR0.aHmG5g--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/25756.png",
+        "is_undroppable": "0",
+        "position_type": "DP",
+        "eligible_positions": {
+         "position": "LB"
+        },
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "LB"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "38",
+            "value": "5"
+           },
+           {
+            "stat_id": "39",
+            "value": "5"
+           },
+           {
+            "stat_id": "65",
+            "value": "0"
+           },
+           {
+            "stat_id": "40",
+            "value": "0.0"
+           },
+           {
+            "stat_id": "46",
+            "value": "0"
+           },
+           {
+            "stat_id": "41",
+            "value": "0"
+           },
+           {
+            "stat_id": "42",
+            "value": "0"
+           },
+           {
+            "stat_id": "43",
+            "value": "0"
+           },
+           {
+            "stat_id": "44",
+            "value": "0"
+           },
+           {
+            "stat_id": "45",
+            "value": "0"
+           },
+           {
+            "stat_id": "47",
+            "value": "0"
+           },
+           {
+            "stat_id": "83",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "12.50"
+        }
+       },
+       {
+        "player_key": "348.p.23990",
+        "player_id": "23990",
+        "name": {
+         "full": "Jason Pierre-Paul",
+         "first": "Jason",
+         "last": "Pierre-Paul",
+         "ascii_first": "Jason",
+         "ascii_last": "Pierre-Paul"
+        },
+        "editorial_player_key": "nfl.p.23990",
+        "editorial_team_key": "nfl.t.19",
+        "editorial_team_full_name": "New York Giants",
+        "editorial_team_abbr": "NYG",
+        "bye_weeks": {
+         "week": "11"
+        },
+        "uniform_number": "90",
+        "display_position": "DE",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/vhqk8T6a_mVKiv13Ag0Z0w--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/23990.1.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/vhqk8T6a_mVKiv13Ag0Z0w--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20150904/23990.1.png",
+        "is_undroppable": "0",
+        "position_type": "DP",
+        "eligible_positions": {
+         "position": "DL"
+        },
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "BN"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "38",
+            "value": "0"
+           },
+           {
+            "stat_id": "39",
+            "value": "0"
+           },
+           {
+            "stat_id": "65",
+            "value": "0"
+           },
+           {
+            "stat_id": "40",
+            "value": "0"
+           },
+           {
+            "stat_id": "46",
+            "value": "0"
+           },
+           {
+            "stat_id": "41",
+            "value": "0"
+           },
+           {
+            "stat_id": "42",
+            "value": "0"
+           },
+           {
+            "stat_id": "43",
+            "value": "0"
+           },
+           {
+            "stat_id": "44",
+            "value": "0"
+           },
+           {
+            "stat_id": "45",
+            "value": "0"
+           },
+           {
+            "stat_id": "47",
+            "value": "0"
+           },
+           {
+            "stat_id": "83",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "0.00"
+        }
+       },
+       {
+        "player_key": "348.p.8877",
+        "player_id": "8877",
+        "name": {
+         "full": "Tyvon Branch",
+         "first": "Tyvon",
+         "last": "Branch",
+         "ascii_first": "Tyvon",
+         "ascii_last": "Branch"
+        },
+        "injury_note": "foot, thigh",
+        "editorial_player_key": "nfl.p.8877",
+        "editorial_team_key": "nfl.t.12",
+        "editorial_team_full_name": "Kansas City Chiefs",
+        "editorial_team_abbr": "KC",
+        "bye_weeks": {
+         "week": "9"
+        },
+        "uniform_number": "27",
+        "display_position": "S",
+        "headshot": {
+         "url": "http://l.yimg.com/iu/api/res/1.2/RMZi4m6qvJ.zE2bcYckJ3A--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/8877.png",
+         "size": "small"
+        },
+        "image_url": "http://l.yimg.com/iu/api/res/1.2/RMZi4m6qvJ.zE2bcYckJ3A--/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/20141101/8877.png",
+        "is_undroppable": "0",
+        "position_type": "DP",
+        "eligible_positions": {
+         "position": "DB"
+        },
+        "selected_position": {
+         "coverage_type": "week",
+         "week": "1",
+         "position": "BN"
+        },
+        "player_stats": {
+         "coverage_type": "week",
+         "week": "1",
+         "stats": {
+          "stat": [
+           {
+            "stat_id": "15",
+            "value": "0"
+           },
+           {
+            "stat_id": "38",
+            "value": "0"
+           },
+           {
+            "stat_id": "39",
+            "value": "1"
+           },
+           {
+            "stat_id": "65",
+            "value": "0"
+           },
+           {
+            "stat_id": "40",
+            "value": "0.0"
+           },
+           {
+            "stat_id": "46",
+            "value": "0"
+           },
+           {
+            "stat_id": "41",
+            "value": "0"
+           },
+           {
+            "stat_id": "42",
+            "value": "0"
+           },
+           {
+            "stat_id": "43",
+            "value": "0"
+           },
+           {
+            "stat_id": "44",
+            "value": "0"
+           },
+           {
+            "stat_id": "45",
+            "value": "0"
+           },
+           {
+            "stat_id": "47",
+            "value": "0"
+           },
+           {
+            "stat_id": "83",
+            "value": "0"
+           }
+          ]
+         }
+        },
+        "player_points": {
+         "coverage_type": "week",
+         "week": "1",
+         "total": "1.00"
+        }
+       }
+      ]
+     }
+    }
+   }
+  }
+ }
+}

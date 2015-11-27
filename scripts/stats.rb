@@ -3,14 +3,21 @@
 require 'csv'
 require 'json'
 
+YEAR = 2015
+
 # NOTE: duped from roster.rb
 def initials id
-  owners = ['DB', 'TP', 'SC', 'MP', 'CR', 'MM', 'MW', 'BT', 'TJ', 'JC']
+  case YEAR
+  when 2014
+    owners = ['DB', 'TP', 'SC', 'MP', 'CR', 'MM', 'MW', 'BT', 'TJ', 'JC']
+  when 2015
+    owners = ['DB', 'MP', 'TP', 'SC', 'TJ', 'MW', 'JC', 'BT', 'CR', 'MM']
+  end
   return owners[id.to_i - 1]
 end
 
 def scrub_personal
-  files = Dir[File.expand_path("../../yql/weekly/*.json", __FILE__)]
+  files = Dir[File.expand_path("../../yql/#{YEAR}/*.json", __FILE__)]
 
   files.each do |filename|
     puts "Scrubbing #{filename}..."
@@ -31,12 +38,11 @@ def generate_stats(year, week)
   dir = File.expand_path("../../seasons/#{year}/weeks/#{week}", __FILE__)
   stats_filename = File.expand_path("stats.csv", dir)
   locks_filename = File.expand_path("locks.csv", dir)
-  files = Dir[File.expand_path("../../yql/weekly/*_#{week}.json", __FILE__)]
-  # files = [File.expand_path("../../yql/weekly/1_#{week}.json", __FILE__)] # NOTE for testing
+  files = Dir[File.expand_path("../../yql/#{YEAR}/*_#{week}.json", __FILE__)]
 
   Dir.mkdir dir unless File.directory? dir
 
-  # order of the stats in the 2014_stats.csv, from left to right
+  # order of the stats in the stats.csv, from left to right
   stat_mappings = [
     5, # Passing TDs
     6, # Interceptions
@@ -101,7 +107,7 @@ def generate_stats(year, week)
       stats.each { |s| stats_hash[s['stat_id']] = s['value'] }
 
       # Manual data overrides, otherwise execute as intended
-      if week == 1 and name == "Bobby Wagner"
+      if YEAR == 2014 and week == 1 and name == "Bobby Wagner"
         player_stats_rows << "27355,Andy Mulumba,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0"
         player_locks_rows << "1,CR,LB,27355,Andy Mulumba"
       else
@@ -149,5 +155,5 @@ while true
     puts "\nClosing program..."
     raise SystemExit
   end
-  generate_stats(2014, answer)
+  generate_stats(YEAR, answer)
 end
