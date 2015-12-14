@@ -51,6 +51,7 @@ You should have the following minimally setup:
     $ cd fflegacy
     $ rbenv install
     $ gem install bundler
+    $ bundle config build.eventmachine --with-cppflags=-I/usr/local/opt/openssl/include
     $ bundle install
 
 ### Development
