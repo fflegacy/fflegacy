@@ -1,4 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/bergren2/fflegacy.png?label=ready&title=Ready)](https://waffle.io/bergren2/fflegacy)
 # Fantasy Football Legacy League
 
 I still can't believe this is a thing.
