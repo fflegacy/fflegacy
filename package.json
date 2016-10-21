@@ -1,0 +1,15 @@
+{
+  "name": "fflegacy",
+  "version": "1.0.0",
+  "description": "FFLegacy historical data.",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:bergren2/fflegacy.git",
+    "type": "git"
+  },
+  "author": "bergren2 <dan@heymrbass.com>",
+  "license": "MIT",
+  "dependencies": {
+    "yahoo-fantasy": "^1.0.2"
+  }
+}
