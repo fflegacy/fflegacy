@@ -54,26 +54,6 @@ You should have the following minimally setup:
     $ bundle config build.eventmachine --with-cppflags=-I/usr/local/opt/openssl/include
     $ bundle install
 
-### Development
-
-Fire up
-
-    $ bin/middleman server
-
-and then check out the site at [localhost:4567](http://localhost:4567).
-
-### Deployment
-
-    $ bin/rake publish
-
-#### Caveats
-
-If your directory is dirty, `git stash` before deploying.
-
-If Rake complains about there already being an `origin` remote, remove the `build`
-directory in its entirety.
-
-
 ## Data Overview
 
 We had some trouble with the Yahoo API, so we're using YQL queries to
