@@ -44,15 +44,25 @@ You should have the following minimally setup:
 - [Git](https://help.github.com/articles/set-up-git) (duh)
 - [rbenv](https://github.com/sstephenson/rbenv)
 & [ruby-build](https://github.com/sstephenson/ruby-build)
+- [Yarn](https://yarnpkg.com/)
 
 ### Initial  Setup
 
     $ git clone git@github.com:bergren2/fflegacy.git
     $ cd fflegacy
+
+New JavaScript setup:
+
+    $ yarn global add gulp
+    $ gulp
+
+Old Ruby setup:
+
     $ rbenv install
     $ gem install bundler
     $ bundle config build.eventmachine --with-cppflags=-I/usr/local/opt/openssl/include
     $ bundle install
+
 
 ## Data Overview
 
