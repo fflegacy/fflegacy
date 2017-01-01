@@ -6,6 +6,8 @@ require 'colorize'
 require 'csv'
 require 'json'
 
+YEAR = 2016
+
 class Transaction
   require 'date'
   attr_reader(:date, :name, :type, :source, :destination)
@@ -61,7 +63,7 @@ end
 
 def update_from_json
   transactions = {}
-  File.open(File.expand_path("../../yql/2015_transactions.json", __FILE__), 'r') do |f|
+  File.open(File.expand_path("../../yql/#{YEAR}_transactions.json", __FILE__), 'r') do |f|
     transactions = JSON.load(f)['query']['results']['league']['transactions']
   end
 
@@ -101,10 +103,13 @@ def update_from_json
   # existing transactions are from the draft
 
   # load existing transactions, and then find the most recent recorded transaction
-  existing_transactions = CSV.read(File.expand_path("../../seasons/2015/transactions.csv", __FILE__))
+  transactions_path = File.expand_path("../../seasons/#{YEAR}/transactions.csv", __FILE__)
+
+  # assume existing file because it needs to be prepopulated with draft picks
+  existing_transactions = CSV.read(transactions_path)
   existing_index = transactions_array.find_index existing_transactions[-1].to_csv.chop
 
-  File.open(File.expand_path("../../seasons/2015/transactions.csv", __FILE__), 'a') do |file|
+  File.open(File.expand_path("../../seasons/#{YEAR}/transactions.csv", __FILE__), 'a') do |file|
     # if existing_index is nil, then add all new transactions
     # if existing_index is i, then add all transactions after it
     count = 0
@@ -137,13 +142,17 @@ def lookup_team
 
   players = []
   # determines roster of a team given the list of transactions
-  CSV.foreach(File.expand_path("../../seasons/2015/transactions.csv", __FILE__), headers: true) do |csv|
+  CSV.foreach(File.expand_path("../../seasons/#{YEAR}/transactions.csv", __FILE__), headers: true) do |csv|
     unless csv['Player/Pick'].match(/Round \d+/) or csv['Source'] == 'keeper'
       if csv['Destination'].eql? team
         players.push csv['Player/Pick']
       elsif csv['Source'].eql? team
-        if players.delete(csv['Player/Pick']).nil?
+        index = players.index(csv["Player/Pick"])
+
+        if index.nil?
           raise "Cannot drop #{csv['Player/Pick']}: not on #{team}'s roster"
+        else
+          players.delete_at(index)
         end
       end
     end
