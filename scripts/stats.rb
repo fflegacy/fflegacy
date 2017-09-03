@@ -3,7 +3,7 @@
 require 'csv'
 require 'json'
 
-YEAR = 2015
+YEAR = 2016
 
 # NOTE: duped from roster.rb
 def initials id
@@ -11,6 +11,8 @@ def initials id
   when 2014
     owners = ['DB', 'TP', 'SC', 'MP', 'CR', 'MM', 'MW', 'BT', 'TJ', 'JC']
   when 2015
+    owners = ['DB', 'MP', 'TP', 'SC', 'TJ', 'MW', 'JC', 'BT', 'CR', 'MM']
+  when 2016
     owners = ['DB', 'MP', 'TP', 'SC', 'TJ', 'MW', 'JC', 'BT', 'CR', 'MM']
   end
   return owners[id.to_i - 1]
