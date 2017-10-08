@@ -14,6 +14,8 @@ def initials id
     owners = ['DB', 'MP', 'TP', 'SC', 'TJ', 'MW', 'JC', 'BT', 'CR', 'MM']
   when 2016
     owners = ['DB', 'MP', 'TP', 'SC', 'TJ', 'MW', 'JC', 'BT', 'CR', 'MM']
+  when 2017
+    owners = ['DB', 'MP', 'TP', 'SC', 'TJ', 'MW', 'JC', 'BT', 'JR', 'MM']
   end
   return owners[id.to_i - 1]
 end

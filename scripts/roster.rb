@@ -6,7 +6,7 @@ require 'colorize'
 require 'csv'
 require 'json'
 
-YEAR = 2016
+YEAR = 2017
 
 class Transaction
   require 'date'
@@ -44,7 +44,7 @@ class Transaction
     # it will probably change from year to year
 
     # 2014 owners = ['DB', 'TP', 'SC', 'MP', 'CR', 'MM', 'MW', 'BT', 'TJ', 'JC']
-    owners = ['DB', 'MP', 'TP', 'SC', 'TJ', 'MW', 'JC', 'BT', 'CR', 'MM']
+    owners = ['DB', 'MP', 'TP', 'SC', 'TJ', 'MW', 'JC', 'BT', 'JR', 'MM']
     return owners[id.to_i - 1]
   end
 

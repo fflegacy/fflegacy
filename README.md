@@ -110,9 +110,9 @@ how many points a team scored in a week.
 A list of all player transactions that occur during the season, from Draft Day
 until the Super Bowl.
 
-[YQL Query](http://developer.yahoo.com/yql/console/?q=select%20*%20from%20fantasysports.leagues.transactions%20where%20league_key%3D'nfl.l.22551'):
+[YQL Query](http://developer.yahoo.com/yql/console/?q=select%20*%20from%20fantasysports.leagues.transactions%20where%20league_key%3D'371.l.632148'):
 
-    select * from fantasysports.leagues.transactions where league_key='nfl.l.22551'
+    select * from fantasysports.leagues.transactions where league_key='nfl.l.632148'
 
 ### Data Format
 
