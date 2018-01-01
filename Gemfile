@@ -1,6 +1,9 @@
-# If you do not have OpenSSL installed, update
-# the following line to use "http://" instead
+# frozen_string_literal: true
 source "https://rubygems.org"
+
+# Rake tasks
+gem "rake"
+gem "oauth2"
 
 # COLORS
 gem "colorize"
