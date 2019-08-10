@@ -6,7 +6,7 @@ require 'colorize'
 require 'csv'
 require 'json'
 
-YEAR = 2017
+YEAR = 2018
 
 class Transaction
   require 'date'
